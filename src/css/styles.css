@@ -17,6 +17,9 @@ a{
   font-size: 40px;
   text-align: center;
 }
+.title{
+   text-shadow: 1px 1px #1d4170;
+}
 
 .keyboard {
   font-weight: 800;
