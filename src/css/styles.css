@@ -5,11 +5,7 @@ body {
   color: #fff;
 }
 
-a {
-  color: #64ff3d;
-}
-
-a:hover {
+a{
   color: #93e7ff;
 }
 
