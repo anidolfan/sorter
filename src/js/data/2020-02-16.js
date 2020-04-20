@@ -77,7 +77,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Morito Chisaki",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/23/MoritoKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/300?cb=20191205144516"
         , opts: {
-            subkeyaki: ["mm"]
+            subkeyaki: ["mm", "cg"]
         }
     },
     {
@@ -136,7 +136,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Funaki Musubu",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d8/FunakiMusubu-Anju27thSingle.jpg/revision/latest/scale-to-width-down/300?cb=20191018142715"
         , opts: {
-            subkeyaki: ["angerme"]
+            subkeyaki: ["angerme", "cg"]
         }
     },
     {
@@ -200,14 +200,14 @@ dataSet[dataSetVersion].characterData = [
         "name": "Inaba Manaka",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d1/Inaba-March2020.jpg/revision/latest/scale-to-width-down/270?cb=20200302111534"
         , opts: {
-            subkeyaki: ["jj"]
+            subkeyaki: ["jj", "cg"]
         }
     },
     {
         "name": "Inoue Rei",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/65/InoueRei-January2020.jpg/revision/latest/scale-to-width-down/310?cb=20200127192218"
         , opts: {
-            subkeyaki: ["jj"]
+            subkeyaki: ["jj", "kf"]
         }
     },
     {
@@ -508,9 +508,213 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["kss"]
         }
+    },
+
+
+    // Kobushi Factory
+    {
+        "name": "Hirose Ayaka",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/f/fa/HiroseAyaka-January2020.jpg/revision/latest/scale-to-width-down/300?cb=20200127191142"
+        , opts: {
+            subkeyaki: ["kf"]
+        }
     }
+    ,
+    {
+        "name": "Nomura Minami",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/0b/NomuraMinami-January2020.jpg/revision/latest/scale-to-width-down/300?cb=20200127191405"
+        , opts: {
+            subkeyaki: ["kf"]
+        }
+    }
+    ,
+    {
+        "name": "Hamaura Ayano",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/9b/HamauraAyano-January2020.jpg/revision/latest/scale-to-width-down/300?cb=20200127191653"
+        , opts: {
+            subkeyaki: ["kf"]
+        }
+    }
+    ,
+    {
+        "name": "Wada Sakurako",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/06/WadaSakurako-January2020.jpg/revision/latest/scale-to-width-down/300?cb=20200127191904"
+        , opts: {
+            subkeyaki: ["kf"]
+        }
+    }
+    ,
+    {
+        "name": "Fujii Rio",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/17/Fujiirio2017may.jpg/revision/latest/scale-to-width-down/270?cb=20170523151205"
+        , opts: {
+            subkeyaki: ["kf"]
+        }
+    },
+    {
+        "name": "Ogawa Rena",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/18/Ogawarena2017may.jpg/revision/latest/scale-to-width-down/270?cb=20170523151342"
+        , opts: {
+            subkeyaki: ["kf"]
+        }
+    },
+    {
+        "name": "Taguchi Natsumi",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/4e/Taguchinatsumi2017may.jpg/revision/latest/scale-to-width-down/270?cb=20170523152158"
+        , opts: {
+            subkeyaki: ["kf"]
+        }
+    },
 
+    //Country Girls
+    {
+        "name": "Yamaki Risa",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/63/YamakiRisa-CountryGirlsDaizenshuu1.jpeg/revision/latest/scale-to-width-down/280?cb=20191105034249"
+        , opts: {
+            subkeyaki: ["cg"]
+        }
+    }
+    ,
+    {
+        "name": "Ozeki Mai",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/8/89/OzekiMai-CountryGirlsDaizenshuu1.jpeg/revision/latest/scale-to-width-down/290?cb=20191105035146"
+        , opts: {
+            subkeyaki: ["cg"]
+        }
+    },
+    {
+        "name": "Yanagawa Nanami",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/13/8f1c814b7e9790219bd2851614be03e8d76b7586.jpg/revision/latest/scale-to-width-down/270?cb=20181231154740"
+        , opts: {
+            subkeyaki: ["cg"]
+        }
+    },
+    {
+        "name": "Tsugunaga Momoko",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/43/Tsugunagamomoko2017Goodboybadgirl.jpg/revision/latest/scale-to-width-down/250?cb=20170102180727"
+        , opts: {
+            subkeyaki: ["cg", "berryz"]
+        }
+    },
+    {
+        "name": "Shimamura Uta",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/a5/Shimamura201502.jpg/revision/latest/scale-to-width-down/270?cb=20150227160727"
+        , opts: {
+            subkeyaki: ["cg"]
+        }
+    },
 
+    //C-ute
+    {
+        "name": "Yajima Maimi",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/74/YajimalastAlbum.jpg/revision/latest/scale-to-width-down/290?cb=20170407112319"
+        , opts: {
+                subkeyaki: ["cute"]
+            }
+      },
+      {
+        "name": "Nakajima Saki",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/92/NakajimalastAlbum.jpg/revision/latest/scale-to-width-down/300?cb=20170407113135"
+        , opts: {
+                subkeyaki: ["cute"]
+            }
+      },
+      {
+        "name": "Suzuki Airi",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/a0/SuzukiairilastAlbum.jpg/revision/latest/scale-to-width-down/325?cb=20170407114121"
+        , opts: {
+                subkeyaki: ["cute"]
+            }
+      },
+      {
+        "name": "Okai Chisato",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/72/OkailastAlbum.jpg/revision/latest/scale-to-width-down/300?cb=20170407114819"
+        , opts: {
+                subkeyaki: ["cute"]
+            }
+      },
+      {
+        "name": "Hagiwara Mai",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/7f/HagiwaralastAlbum.jpg/revision/latest/scale-to-width-down/290?cb=20170407115510"
+        , opts: {
+                subkeyaki: ["cute"]
+            }
+      },
+      {
+        "name": "Murakami Megumi",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b2/Murakamimegumi2018.jpg/revision/latest/scale-to-width-down/270?cb=20180612184543"
+        , opts: {
+                subkeyaki: ["cute"]
+            }
+      },
+      {
+        "name": "Arihara Kanna",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/25/AriharaKanna-TokiEntertainment-2016.jpg/revision/latest/scale-to-width-down/270?cb=20171112111825"
+        , opts: {
+                subkeyaki: ["cute"]
+            }
+      },
+      {
+        "name": "Umeda Erika",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d6/Umedaerikapromo.jpg/revision/latest/scale-to-width-down/270?cb=20140705040413"
+        , opts: {
+                subkeyaki: ["cute"]
+            }
+      },
+
+      //Berryz Koubou
+
+      {
+        "name": "Shimizu Saki",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/7b/B56867d56ead2bcd78e03eef9b410c17d250ae45.jpg/revision/latest/scale-to-width-down/160?cb=20141226125810"
+        , opts: {
+                    subkeyaki: ["berryz"]
+                }}
+      ,
+     
+      {
+        "name": "Tokunaga Chinami",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/27/2e942155ccc55bf43e825bc47b78613e4eb3eb10.jpg/revision/latest/scale-to-width-down/200?cb=20141226125032"
+        , opts: {
+                    subkeyaki: ["berryz"]
+                }}
+      ,
+      {
+        "name": "Sudo Maasa",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/92/D34a65b652b4c014e047085e03a282a6e4e82b7e.jpg/revision/latest/scale-to-width-down/160?cb=20141226130214"
+        , opts: {
+                    subkeyaki: ["berryz"]
+                }}
+      ,
+      {
+        "name": "Natsuyaki Miyabi",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/3a/4b251d2ee134e926049e5890d0868826b58c0659.jpg/revision/latest/scale-to-width-down/210?cb=20141226125047"
+        , opts: {
+                    subkeyaki: ["berryz"]
+                }}
+      ,
+      {
+        "name": "Kumai Yurina",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/10/D7931be569946a39ea8ef01d01feae91d33ff09e.jpg/revision/latest/scale-to-width-down/150?cb=20141226130345"
+        , opts: {
+                    subkeyaki: ["berryz"]
+                }}
+      ,
+      {
+        "name": "Sugaya Risako",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/12/46b3c7d0fed117595e2914f58fbf0913ed92e1c9.jpg/revision/latest/scale-to-width-down/180?cb=20141226125528"
+        , opts: {
+                    subkeyaki: ["berryz"]
+                }
+      }
+      ,
+      {
+        "name": "Ishimura Maiha",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/2f/Maiha2014.jpg/revision/latest/scale-to-width-down/270?cb=20140427111457"
+        , opts: {
+                    subkeyaki: ["berryz"]
+                }
+      }
 
 ];
 
@@ -527,6 +731,10 @@ dataSet[dataSetVersion].options = [
             { name: 'Tsubaki Factory', key: 'tf' },
             { name: 'BEYOOOOONDS', key: 'by' },
             { name: 'Hello Pro Kenshuusei', key: 'kss' },
+            { name: 'Ex-Kobushi Factory', key: 'kf' },
+            { name: 'Ex-Country Girls', key: 'cg' },
+            { name: 'Ex-℃-ute', key: 'cute' },
+            { name: 'Ex-Berryz Koubou', key: 'berryz' },
         ]
     }
 ];
