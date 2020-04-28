@@ -306,3 +306,11 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
+
+
+.right.sort.image{
+  max-height: 210px;
+}
+.left.sort.image{
+  max-height: 210px;
+}
