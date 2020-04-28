@@ -1006,7 +1006,7 @@ dataSet[dataSetVersion].options = [
             { name: 'Ex-Berryz Koubou', key: 'berryz' },
             { name: 'Ex-Buono!', key: 'buono' },
             { name: 'Melon Kinenbi', key: 'melon' },
-            { name: 'V-u-den', key: 'vuden' },
+            { name: 'Ex-V-u-den', key: 'vuden' },
             { name: 'Ex-Morning Musume', key: 'mmog' }
         ]
     }
