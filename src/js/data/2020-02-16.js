@@ -950,7 +950,7 @@ dataSet[dataSetVersion].characterData = [
     } ,
     {
         "name": "Sayashi Riho",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/71/SayashiTsumetai_1.jpg/revision/latest/scale-to-width-down/250?cb=20151216141328"
+        "img": "https://i.imgur.com/NhjonIp.png"
         , opts: {
             subkeyaki: ["mmog"]
         }
