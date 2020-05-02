@@ -950,7 +950,7 @@ dataSet[dataSetVersion].characterData = [
     } ,
     {
         "name": "Sayashi Riho",
-        "img": "https://i.imgur.com/NhjonIp.png"
+        "img": "https://i.imgur.com/E74L9xv.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
@@ -982,7 +982,82 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } 
+    },
+    
+
+    //Ex Smileage and ANGERME
+
+    
+    {
+        "name": "Wada Ayaka",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b9/WadaAyaka-RinnetenshouANGERMEPastPresentFuture.jpg/revision/latest?cb=20190501053031"
+        , opts: {
+            subkeyaki: ["SnAog"]
+        }
+    },
+    {
+        "name": "Maeda Yuuka",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/8/8d/BUS20wO.jpg/revision/latest?cb=20180608144416"
+        , opts: {
+            subkeyaki: ["SnAog"]
+        }
+    },
+    {
+        "name": "Fukuda Kanon",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d1/FukudaKanon-ZOC2020.jpeg/revision/latest/scale-to-width-down/270?cb=20200327123610"
+        , opts: {
+            subkeyaki: ["SnAog"]
+        }
+    },
+    {
+        "name": "Ogawa Saki",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/95/Ogawasaki205.jpg/revision/latest/scale-to-width-down/270?cb=20150624223911"
+        , opts: {
+            subkeyaki: ["SnAog"]
+        }
+    },
+    {
+        "name": "Nakanishi Kana",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/a6/NakanishiKana-Anju27thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20191018142615"
+        , opts: {
+            subkeyaki: ["SnAog"]
+        }
+    },
+    {
+        "name": "Katsuta Rina",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b1/KatsutaRina-Oct2019.jpg/revision/latest/scale-to-width-down/270?cb=20191001061145"
+        , opts: {
+            subkeyaki: ["SnAog"]
+        }
+    },
+    {
+        "name": "Tamura Meimi",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/79/AB70969C-8797-4396-A16B-09FD0710B269.jpeg/revision/latest/scale-to-width-down/250?cb=20200206011244"
+        , opts: {
+            subkeyaki: ["SnAog"]
+        }
+    },
+    {
+        "name": "Kosuga Fuyuka",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/a5/KosugaFuyuka-MissofMiss2018-Dec2017prof.jpg/revision/latest/scale-to-width-down/270?cb=20180210091845"
+        , opts: {
+            subkeyaki: ["SnAog"]
+        }
+    },
+    {
+        "name": "Murota Mizuki",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d8/MurotaMizuki-Anju27thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20191018142709"
+        , opts: {
+            subkeyaki: ["SnAog"]
+        }
+    },
+    {
+        "name": "Aikawa Maho ",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/67/Aikawa-UmakuIenai-Front.jpg/revision/latest/scale-to-width-down/250?cb=20160928171230"
+        , opts: {
+            subkeyaki: ["SnAog"]
+        }
+    }
     
 
 ];
@@ -1007,8 +1082,10 @@ dataSet[dataSetVersion].options = [
             { name: 'Ex-Buono!', key: 'buono' },
             { name: 'Melon Kinenbi', key: 'melon' },
             { name: 'Ex-V-u-den', key: 'vuden' },
-            { name: 'Ex-Morning Musume', key: 'mmog' }
+            { name: 'Ex-Morning Musume', key: 'mmog' },
+            { name: 'Ex-ANGERME and Ex-S/mileage', key: 'SnAog' }
         ]
     }
+
 ];
 
