@@ -786,196 +786,196 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Ishiguro Aya",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/06/IshiguroAya2019.jpg/revision/latest/scale-to-width-down/270?cb=20191214131552"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Iida Kaori",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b6/IidaKaori-July2016.jpg/revision/latest/scale-to-width-down/270?cb=20160715030756"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Abe Natsumi",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/33/AbeNDreamspromo.jpg/revision/latest/scale-to-width-down/270?cb=20150522172551"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Fukuda Asuka",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/29/FukudaAsuka-NeverForget.jpg/revision/latest/scale-to-width-down/270?cb=20180206210719"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Yasuda Kei",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/1e/YasudaKei-Apr2019.jpg/revision/latest/scale-to-width-down/270?cb=20190428231705"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Yaguchi Mari",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/a4/YaguchiMari-May2018.jpg/revision/latest/scale-to-width-down/270?cb=20180522182201"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Ichii Sayaka",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/10/IchiiSayaka-Sept2017.jpg/revision/latest/scale-to-width-down/270?cb=20171103055400"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Goto Maki",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/3a/GotoMaki-May2018.jpg/revision/latest/scale-to-width-down/270?cb=20180622223205"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Yoshizawa Hitomi",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/9f/02769fcca6b116ac7b1b4f091e2a747f5a4aa817.jpg/revision/latest/scale-to-width-down/270?cb=20180518105133"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Tsuji Nozomi",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/8/89/TsujiNozomi-Oct2019.jpg/revision/latest/scale-to-width-down/270?cb=20191010030325"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Kago Ai",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/e/e6/KagoAi-Apr2016.jpg/revision/latest/scale-to-width-down/270?cb=20170903064454"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Takahashi Ai",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d4/TakahashiAi-Sept2019.jpg/revision/latest/scale-to-width-down/270?cb=20190912044510"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Konno Asami",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/f/f1/KonnoAsami2019.jpg/revision/latest?cb=20200129015225"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Ogawa Makoto",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/19/CygyajWH4sceMgN9D94f8Ve-bjY.jpg/revision/latest/scale-to-width-down/270?cb=20140911165052"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Niigaki Risa",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/60/NiigakiRisa-Apr2019.jpg/revision/latest/scale-to-width-down/270?cb=20200123175244"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Fujimoto Miki",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/9f/Fujimoto2015.jpg/revision/latest/scale-to-width-down/270?cb=20190302061051"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Kamei Eri",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/bb/KameiEri-Fantasy-front.jpeg/revision/latest/scale-to-width-down/270?cb=20191209023130"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Michishige Sayumi",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/2e/MichishigeSayumi-August2019.jpg/revision/latest/scale-to-width-down/270?cb=20200112211216"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Tanaka Reina",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/19/TanakaReina-Aug2018.jpg/revision/latest/scale-to-width-down/270?cb=20180831133135"
         , opts: {
-            subkeyaki: ["mmog"]
+            subkeyaki: ["mmog", "lovendor"]
         }
-    } ,
+    },
     {
         "name": "Kusumi Koharu",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/c/c3/KusumiKoharu-OscarPromotion-Apr2017.jpg/revision/latest/scale-to-width-down/270?cb=20170407233910"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Mitsui Aika",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/a5/Aika14png.jpg/revision/latest/scale-to-width-down/270?cb=20141201092552"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Junjun",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/97/LiQinYao-January2018.jpeg/revision/latest/scale-to-width-down/270?cb=20191209013032"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Linlin",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/39/Linlin-January2016.jpg/revision/latest?cb=20160124054527"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Sayashi Riho",
         "img": "https://i.imgur.com/E74L9xv.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Suzuki Kanon",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/79/UtakataSuzuki.jpg/revision/latest/scale-to-width-down/250?cb=20160422141208"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Iikubo Haruna",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d4/IikuboHaruna-NinaProducer-Dec2018.jpg/revision/latest/scale-to-width-down/270?cb=20181217024204"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Kudo Haruka",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/91/KudoHaruka-Oct2019.jpg/revision/latest/scale-to-width-down/270?cb=20191027064431"
         , opts: {
             subkeyaki: ["mmog"]
         }
-    } ,
+    },
     {
         "name": "Ogata Haruna",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/c/cd/Ogataharuna2019.jpg/revision/latest/scale-to-width-down/270?cb=20190619153504"
@@ -983,11 +983,11 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mmog"]
         }
     },
-    
+
 
     //Ex Smileage and ANGERME
 
-    
+
     {
         "name": "Wada Ayaka",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b9/WadaAyaka-RinnetenshouANGERMEPastPresentFuture.jpg/revision/latest?cb=20190501053031"
@@ -1057,8 +1057,33 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["SnAog"]
         }
+    },
+
+    {
+        "name": "Miyazawa Marin",
+        "img": "https://vignette.wikia.nocookie.net/up-front/images/6/6d/MiyazawaMarin-ReStart.jpg/revision/latest/scale-to-width-down/270?cb=20170805074444"
+        , opts: {
+            subkeyaki: ["lovendor"]
+        }
+
+    },
+    {
+        "name": "Uozumi Yuki",
+        "img": "https://vignette.wikia.nocookie.net/up-front/images/f/f3/UozumiYuki-Itsuwari.jpg/revision/latest/scale-to-width-down/270?cb=20161015030535"
+        , opts: {
+            subkeyaki: ["lovendor"]
+        }
+
+    },
+    {
+        "name": "Okada Marina",
+        "img": "https://vignette.wikia.nocookie.net/up-front/images/7/7d/OkadaMarina-ReStart.jpg/revision/latest/scale-to-width-down/270?cb=20170805074256"
+        , opts: {
+            subkeyaki: ["lovendor"]
+        }
+
     }
-    
+
 
 ];
 
@@ -1083,7 +1108,8 @@ dataSet[dataSetVersion].options = [
             { name: 'Melon Kinenbi', key: 'melon' },
             { name: 'Ex-V-u-den', key: 'vuden' },
             { name: 'Ex-Morning Musume', key: 'mmog' },
-            { name: 'Ex-ANGERME and Ex-S/mileage', key: 'SnAog' }
+            { name: 'Ex-ANGERME and Ex-S/mileage', key: 'SnAog' },
+            { name: 'LoVendoЯ', key: 'lovendor' }
         ]
     }
 
