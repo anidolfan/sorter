@@ -1082,6 +1082,49 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["lovendor"]
         }
 
+    },
+    //animals
+    {
+        "name": "Pon-chan",
+        "img": "https://i.imgur.com/lVjtiH5.jpg"
+        , opts: {
+            subkeyaki: ["animal"]
+        }
+    },
+    {
+        "name": "Marin-chan",
+        "img": "https://i.imgur.com/VzWEkX1.jpg"
+        , opts: {
+            subkeyaki: ["animal"]
+        }
+    },
+    {
+        "name": "Natsu",
+        "img": "https://i.imgur.com/egbKdvu.png"
+        , opts: {
+            subkeyaki: ["animal"]
+        }
+    },
+    {
+        "name": "Omochi-kun",
+        "img": "https://i.imgur.com/3L3b7b2.jpg"
+        , opts: {
+            subkeyaki: ["animal"]
+        }
+    },
+    {
+        "name": "Sui-chan",
+        "img": "https://i.imgur.com/CgNpYvK.png"
+        , opts: {
+            subkeyaki: ["animal"]
+        }
+    },
+    {
+        "name": "Pon-chan",
+        "img": "https://i.imgur.com/2x1fQlG.png"
+        , opts: {
+            subkeyaki: ["animal"]
+        }
     }
 
 
@@ -1109,7 +1152,8 @@ dataSet[dataSetVersion].options = [
             { name: 'Ex-V-u-den', key: 'vuden' },
             { name: 'Ex-Morning Musume', key: 'mmog' },
             { name: 'Ex-ANGERME and Ex-S/mileage', key: 'SnAog' },
-            { name: 'LoVendoЯ', key: 'lovendor' }
+            { name: 'LoVendoЯ', key: 'lovendor' },
+            { name: 'H!P Animals', key: 'animal' }
         ]
     }
 
