@@ -950,7 +950,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sayashi Riho",
-        "img": "https://i.imgur.com/E74L9xv.jpg"
+        "img": "https://i.imgur.com/WyjyaDg.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
@@ -1085,42 +1085,42 @@ dataSet[dataSetVersion].characterData = [
     },
     //animals
     {
-        "name": "Pon-chan",
+        "name": "Morito Pon-chan",
         "img": "https://i.imgur.com/lVjtiH5.jpg"
         , opts: {
             subkeyaki: ["animal"]
         }
     },
     {
-        "name": "Marin-chan",
+        "name": "Okamura Marin-chan",
         "img": "https://i.imgur.com/VzWEkX1.jpg"
         , opts: {
             subkeyaki: ["animal"]
         }
     },
     {
-        "name": "Natsu",
+        "name": "Maeda Natsu",
         "img": "https://i.imgur.com/egbKdvu.png"
         , opts: {
             subkeyaki: ["animal"]
         }
     },
     {
-        "name": "Omochi-kun",
+        "name": "Satoyoshi Omochi-kun",
         "img": "https://i.imgur.com/3L3b7b2.jpg"
         , opts: {
             subkeyaki: ["animal"]
         }
     },
     {
-        "name": "Sui-chan",
+        "name": "Kanazawa Sui-chan",
         "img": "https://i.imgur.com/CgNpYvK.png"
         , opts: {
             subkeyaki: ["animal"]
         }
     },
     {
-        "name": "Pon-chan",
+        "name": "Hashisako Pon-chan",
         "img": "https://i.imgur.com/2x1fQlG.png"
         , opts: {
             subkeyaki: ["animal"]
