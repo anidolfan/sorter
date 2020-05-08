@@ -1132,6 +1132,13 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["animal"]
         }
+    },
+    {
+        "name": "Shimakura Guu-chan",
+        "img": "https://i.imgur.com/iFwcScN.jpg"
+        , opts: {
+            subkeyaki: ["animal"]
+        }
     }
 
 
