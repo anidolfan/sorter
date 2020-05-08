@@ -1160,7 +1160,7 @@ dataSet[dataSetVersion].options = [
             { name: 'Ex-Morning Musume', key: 'mmog' },
             { name: 'Ex-ANGERME and Ex-S/mileage', key: 'SnAog' },
             { name: 'LoVendoЯ', key: 'lovendor' },
-            { name: 'H!P Animals', key: 'animal' }
+            { name: 'H!P pets and other animals', key: 'animal' }
         ]
     }
 
