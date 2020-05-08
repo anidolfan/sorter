@@ -108,13 +108,16 @@ function init() {
   document.querySelector('.image.selector').insertAdjacentElement('beforeend', document.createElement('select'));
 
   /** Initialize image quantity selector for results. */
-  for (let i = 20; i >= 1; i--) {
+  //Total images to display 100 @me
+  for (let i = 100; i >= 1; i--) {
     const select = document.createElement('option');
     select.value = i;
     select.text = i;
-    // if (i === 3) { select.selected = 'selected'; }
+    //Select default value @me
+     if (i === 50) { select.selected = 'selected'; }
     document.querySelector('.image.selector > select').insertAdjacentElement('beforeend', select);
   }
+  
 
   document.querySelector('.image.selector > select').addEventListener('input', (e) => {
     const imageNum = e.target.options[e.target.selectedIndex].value;
@@ -528,9 +531,10 @@ function progressBar(indicator, percentage) {
 /**
  * Shows the result of the sorter.
  *
- * @param {number} [imageNum=20] Number of images to display. Defaults to 3.
+ * @param {number} [imageNum=50] Number of images to display. Defaults to 3.
  */
-function result(imageNum = 20) {
+//Number of images to display. Defaults to 50. @me
+function result(imageNum = 50) {
     document.querySelector('#new-results').style.display = 'block';
   document.querySelectorAll('.finished.button').forEach(el => el.style.display = 'block');
   document.querySelector('.image.selector').style.display = 'block';
