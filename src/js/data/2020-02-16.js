@@ -1125,6 +1125,13 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["animal"]
         }
+    },
+    {
+        "name": "Inoue Konatsu",
+        "img": "https://i.imgur.com/9XCZXBd.jpg"
+        , opts: {
+            subkeyaki: ["animal"]
+        }
     }
 
 
