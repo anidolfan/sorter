@@ -1100,7 +1100,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Maeda Natsu",
-        "img": "https://i.imgur.com/egbKdvu.png"
+        "img": "https://i.imgur.com/mH24DPW.jpg"
         , opts: {
             subkeyaki: ["animal"]
         }
@@ -1114,14 +1114,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kanazawa Sui-chan",
-        "img": "https://i.imgur.com/CgNpYvK.png"
+        "img": "https://i.imgur.com/rk7C1kO.jpg"
         , opts: {
             subkeyaki: ["animal"]
         }
     },
     {
         "name": "Hashisako Pon-chan",
-        "img": "https://i.imgur.com/2x1fQlG.png"
+        "img": "https://i.imgur.com/WhTwFIL.jpg"
         , opts: {
             subkeyaki: ["animal"]
         }
