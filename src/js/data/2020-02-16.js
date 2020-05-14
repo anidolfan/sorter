@@ -1139,9 +1139,45 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["animal"]
         }
+    },
+
+    //ex-animals
+    {
+        "name": "Dramatic Chipmunk",
+        "img": "https://i.imgur.com/KM6o48H.jpg"
+        , opts:{
+            subkeyaki: ["ex-animal"]
+        }
     }
-
-
+    ,
+    {
+        "name": "Iikubo Rana-chan",
+        "img": "https://i.imgur.com/ELZszPE.jpg"
+        , opts:{
+            subkeyaki: ["ex-animal"]
+        }
+    },
+    {
+        "name": "Nakajima  Luna-chan",
+        "img": "https://i.imgur.com/f56aZnY.jpg"
+        , opts:{
+            subkeyaki: ["ex-animal"]
+        }
+    },
+    {
+        "name": "Tanaka Jack",
+        "img": "https://i.imgur.com/25vdEA8.jpg"
+        , opts:{
+            subkeyaki: ["ex-animal"]
+        }
+    },
+    {
+        "name": "Tanaka Simba",
+        "img": "https://i.imgur.com/Im8WUuk.jpg"
+        , opts:{
+            subkeyaki: ["ex-animal"]
+        }
+    }
 ];
 
 dataSet[dataSetVersion].options = [
@@ -1167,7 +1203,8 @@ dataSet[dataSetVersion].options = [
             { name: 'Ex-Morning Musume', key: 'mmog' },
             { name: 'Ex-ANGERME and Ex-S/mileage', key: 'SnAog' },
             { name: 'LoVendoЯ', key: 'lovendor' },
-            { name: 'H!P pets and other animals', key: 'animal' }
+            { name: 'H!P pets and other animals', key: 'animal' },
+            { name: 'Ex-H!P pets and other animals', key: 'ex-animal' }
         ]
     }
 
