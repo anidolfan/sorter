@@ -1177,6 +1177,434 @@ dataSet[dataSetVersion].characterData = [
         , opts:{
             subkeyaki: ["ex-animal"]
         }
+    },
+    
+    //pbs
+    {
+        "name": "MIZUKI (Fukumura) (2013)",
+        "img": "https://i.imgur.com/dB9PFrG.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+
+    },
+    {
+        "name": "Utakata (Fukumura) (2014)",
+        "img": "https://i.imgur.com/QxAo7Ym.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+
+    },
+    {
+        "name": " Kagayaki (Fukumura) (2015)",
+        "img": "https://i.imgur.com/EW3SX44.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+
+    },
+    {
+        "name": "Hatachi (Fukumura) (2017)",
+        "img": "https://i.imgur.com/5fEbVOr.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+
+    },
+    {
+        "name": "Makana (Fukumura) (2018)",
+        "img": "https://i.imgur.com/QbQKkS1.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+
+    },
+    {
+        "name": "Tasha! (Fukumura) (2019)",
+        "img": "https://i.imgur.com/fTzwpWB.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+
+    },
+    {
+        "name": "Erina (Ikuta) (2016)",
+        "img": "https://i.imgur.com/AEsj4bg.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+
+    },
+    {
+        "name": "if (Ikuta) (2018)",
+        "img": "https://i.imgur.com/Ejr17ZN.png"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+
+    },
+    {
+        "name": "Ishida Ayumi (Ishida) (2013)",
+        "img": "https://i.imgur.com/VL3oUJp.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+
+    },
+    {
+        "name": "shine more(Ishida) (2014)",
+        "img": "https://i.imgur.com/JGnTFya.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+
+    },
+    {
+        "name": "It's my turn (Ishida) (2016)",
+        "img": "https://i.imgur.com/yIRZhl8.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+
+    },
+    {
+        "name": "20th canvas (Ishida) (2018)",
+        "img": "https://i.imgur.com/229tX68.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+
+    },
+    {
+        "name": "believe in oneself (Ishida) (2020)",
+        "img": "https://i.imgur.com/PL43SdW.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+
+    },
+    {
+        "name": "Sankaku no Glass (Sato) (2018)",
+        "img": "https://i.imgur.com/CN6S4hZ.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Sakura Moyou (Sakura) (2016)",
+        "img": "https://i.imgur.com/AnwcQGI.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Sakura Breeze (Sakura) (2017)",
+        "img": "https://i.imgur.com/8X9xtEi.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Sakura no Kisetsu (Sakura) (2019)",
+        "img": "https://i.imgur.com/Iwn4vHi.png"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "SAKURA COLOR (Sakura) (2020)",
+        "img": "https://i.imgur.com/MWWrgXl.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Makino Maria  Greeting -Photobook- (Makino) (2015)",
+        "img": "https://i.imgur.com/KmXFeVP.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Maria (Makino) (2016)",
+        "img": "https://i.imgur.com/GVWxELx.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Senkou Hanabi (Makino) (2017)",
+        "img": "https://i.imgur.com/IzJk4iH.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Maria 17sai (Makino) (2018)",
+        "img": "https://i.imgur.com/GOV7JRT.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Summer Days (Makino) (2018)",
+        "img": "https://i.imgur.com/RnwfD3F.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "María 18 años (Makino) (2019)",
+        "img": "https://i.imgur.com/HdAAcCz.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Maria19 (Makino) (2020)",
+        "img": "https://i.imgur.com/Uy1v139.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Haga Akane Greeting -Photobook- (Haga) (2016)",
+        "img": "https://i.imgur.com/VMODY5p.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Akane (Haga) (2020)",
+        "img": "https://i.imgur.com/hCfdzFp.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Kaede (Kaga) (2019)",
+        "img": "https://i.imgur.com/BD4rEcf.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "THIS IS REINA (Yokoyama) (2018)",
+        "img": "https://i.imgur.com/7qgxM2t.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "REINA is eighteen ~N to S~ (Yokoyama) (2019)",
+        "img": "https://i.imgur.com/NMmY62x.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Morito Chisaki Greeting -Photobook (Morito) (2016)",
+        "img": "https://i.imgur.com/b5pNG8m.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Morito Chisaki (Morito) (2017)",
+        "img": "https://i.imgur.com/EGI5Hzt.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Say Cheese! (Morito) (2020)",
+        "img": "https://i.imgur.com/oZJ7Qph.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "RIKAKO (2015)",
+        "img": "https://i.imgur.com/Z21xwS8.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Moe (Kamikokuryo) (2018)",
+        "img": "https://i.imgur.com/2zH0bx5.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Momona (Kasahara) (2019)",
+        "img": "https://i.imgur.com/DoMBeS3.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "MUSUBU (Funaki) (2017)",
+        "img": "https://i.imgur.com/IjCdkNW.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "MUSUBU16 (Funaki) (2018)",
+        "img": "https://i.imgur.com/8fSqDzh.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "KESSYO (Funaki) (2020)",
+        "img": "https://i.imgur.com/aInOojf.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Ayano (Kawamura) (2019)",
+        "img": "https://i.imgur.com/k8usKiK.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Kanazawa Tomoko Greeting -Photobook- (Kanazawa) (2016)",
+        "img": "https://i.imgur.com/AuRECH9.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "tomorrow (Kanazawa) (2018)",
+        "img": "https://i.imgur.com/YCfxwVl.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "#Ii ne Miyoshi-machi (Kanazawa) (2019)",
+        "img": "https://i.imgur.com/TT1x6m1.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Sayuki (Takagi) (2019)",
+        "img": "https://i.imgur.com/tTQSssC.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Karin (Miyamoto) (2014)",
+        "img": "https://i.imgur.com/iBroP8U.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Karin sixteen (Miyamoto) (2015)",
+        "img": "https://i.imgur.com/m9W7iyi.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Sunflower (Miyamoto) (2016)",
+        "img": "https://i.imgur.com/FJ7tN0n.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "KAKUSEI (Miyamoto) (2018)",
+        "img": "https://i.imgur.com/FFqxVFy.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "AKARI (Uemura) (2015)",
+        "img": "https://i.imgur.com/RlansE5.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "AKARI II (Uemura) (2016)",
+        "img": "https://i.imgur.com/nrDwVv9.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "AKARI III (Uemura) (2019)",
+        "img": "https://i.imgur.com/NW17qEJ.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Inaba Manaka Greeting -Photobook- (Inaba) (2016)",
+        "img": "https://i.imgur.com/4CV5Ejl.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Manaka (Inaba) (2018)",
+        "img": "https://i.imgur.com/r0i3LyN.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Rei (Inoue) (2017)",
+        "img": "https://i.imgur.com/XBil3ea.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "You ~You make me~ (Inoue) (2020)",
+        "img": "https://i.imgur.com/S7OgAMI.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Riko (Yamagishi) (2017)",
+        "img": "https://i.imgur.com/RLNS2dW.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "R-21 (Yamagishi) (2020)",
+        "img": "https://i.imgur.com/aD4k91t.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Orange no Sunadokei ~Risa Hatachi~ (Ogata) (2019)",
+        "img": "https://i.imgur.com/PHwdXu6.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
+    },
+    {
+        "name": "Asakura Kiki (Asakura) (2019)",
+        "img": "https://i.imgur.com/hIeoNU9.jpg"
+        , opts:{
+            subkeyaki: ["pbs"]
+        }
     }
 ];
 
@@ -1204,7 +1632,8 @@ dataSet[dataSetVersion].options = [
             { name: 'Ex-ANGERME and Ex-S/mileage', key: 'SnAog' },
             { name: 'LoVendoЯ', key: 'lovendor' },
             { name: 'H!P pets and other animals', key: 'animal' },
-            { name: 'Ex-H!P pets and other animals', key: 'ex-animal' }
+            { name: 'Ex-H!P pets and other animals', key: 'ex-animal' },
+            { name: 'Photobooks', key: 'pbs' }
         ]
     }
 

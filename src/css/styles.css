@@ -292,6 +292,8 @@ label:hover {
   grid-column: 2 / 3;
   border-left: 1px solid #000;
   text-align: center;
+  overflow: hidden;
+  /* important @me */
 }
 
 .info {
