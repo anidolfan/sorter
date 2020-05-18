@@ -316,3 +316,18 @@ img{
 .left.sort.image{
   max-height: 210px;
 }
+
+#op1{
+  text-align: left;
+}
+
+#op2{
+  text-align: center;
+}
+#op3{
+  text-align: right;
+}
+
+#opAll{
+  text-align: center;
+}
