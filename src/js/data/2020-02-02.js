@@ -249,6 +249,15 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        "name": "Mei (Yamazaki) (2020)",
+        "img": "https://i.imgur.com/O6OHz1o.jpg"
+        , opts:{
+            subkeyaki: ["vpbs","mmpb"]
+        }
+    },
+
+
+    {
         "name": "RIKAKO (2015)",
         "img": "https://i.imgur.com/Z21xwS8.jpg"
         , opts:{
@@ -349,6 +358,13 @@ dataSet[dataSetVersion].characterData = [
     {
         "name": "KAKUSEI (Miyamoto) (2018)",
         "img": "https://i.imgur.com/FFqxVFy.jpg"
+        , opts:{
+            subkeyaki: ["pbs","juicepb"]
+        }
+    },
+    {
+        "name": "RIN (Miyamoto) (2020)",
+        "img": "https://i.imgur.com/goOkhlJ.jpg"
         , opts:{
             subkeyaki: ["pbs","juicepb"]
         }
@@ -503,7 +519,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "momo (Tsugunaga) (2007)",
         "img": "https://i.imgur.com/rXJMQDi.jpg"
         , opts:{
-            subkeyaki: ["expbs","excg","exberryz"]
+            subkeyaki: ["expbs","excg","exbk"]
         }
 
     }
@@ -512,7 +528,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "momo16 (Tsugunaga) (2008)",
         "img": "https://i.imgur.com/kK0Lbvz.jpg"
         , opts:{
-            subkeyaki: ["expbs","excg","exberryz"]
+            subkeyaki: ["expbs","excg","exbk"]
         }
 
     }
@@ -521,7 +537,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Momo no Mi (Tsugunaga) (2008)",
         "img": "https://i.imgur.com/k6iVww1.jpg"
         , opts:{
-            subkeyaki: ["expbs","excg","exberryz"]
+            subkeyaki: ["expbs","excg","exbk"]
         }
 
     }
@@ -530,7 +546,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "momochiiii (Tsugunaga) (2009)",
         "img": "https://i.imgur.com/aqSyewg.jpg"
         , opts:{
-            subkeyaki: ["expbs","excg","exberryz"]
+            subkeyaki: ["expbs","excg","exbk"]
         }
 
     }
@@ -539,7 +555,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Momochi Zukan (Tsugunaga) (2010)",
         "img": "https://i.imgur.com/TLyLlqW.jpg"
         , opts:{
-            subkeyaki: ["expbs","excg","exberryz"]
+            subkeyaki: ["expbs","excg","exbk"]
         }
 
     }
@@ -548,7 +564,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Hatachi Momochi (Tsugunaga) (2012)",
         "img": "https://i.imgur.com/zkX5LXg.jpg"
         , opts:{
-            subkeyaki: ["expbs","excg","exberryz"]
+            subkeyaki: ["expbs","excg","exbk"]
         }
 
     }
@@ -557,7 +573,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Momochi (Tsugunaga) (2017)",
         "img": "https://i.imgur.com/CzBZA9S.jpg"
         , opts:{
-            subkeyaki: ["expbs","excg","exberryz"]
+            subkeyaki: ["expbs","excg","exbk"]
         }
 
     }
@@ -591,6 +607,1431 @@ dataSet[dataSetVersion].characterData = [
         }
 
     }
+
+
+
+    ,
+    { 
+        name: "Nacchi (Abe) (1999)", 
+        img: "https://i.imgur.com/TNHqcWA.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Natsumi (Abe) (2001)", 
+        img: "https://i.imgur.com/6ss6TpT.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Deai (Abe) (2004)", 
+        img: "https://i.imgur.com/KfhF7ox.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Fu (Abe) (2005)", 
+        img: "https://i.imgur.com/T24AhWy.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Alo-Hello! Abe Natsumi (Abe) (2005)", 
+        img: "https://i.imgur.com/f4tfmxw.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Écru (Abe) (2006)", 
+        img: "https://i.imgur.com/GFYpjxb.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "sCene (Abe) (2007)", 
+        img: "https://i.imgur.com/tSyeZOj.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Cám Ơn (Abe) (2007)", 
+        img: "https://i.imgur.com/mCFzj3B.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "End Of Summer (Abe) (2008)", 
+        img: "https://i.imgur.com/mCFzj3B.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Natsu-Mi (Abe) (2010)", 
+        img: "https://i.imgur.com/yU4HY63.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Subway (Abe) (2012)", 
+        img: "https://i.imgur.com/RtnNQyb.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Fin no Hito (Finの人) (Abe) (2015)", 
+        img: "https://i.imgur.com/mDoQ096.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    }
+
+    ,
+    { 
+        name: "Kaori KAORI Kaori (Kaori) (2002)", 
+        img: "https://i.imgur.com/Q95sR1T.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    }
+    ,
+    
+    { 
+        name: "The Agean: Shoko Aida & Kaori Iida (Kaori) (2004)", 
+        img: "https://i.imgur.com/qYALeBd.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    }
+    ,
+    { 
+        name: "Feather (Nakazawa) (2001)", 
+        img: "https://i.imgur.com/fKK7U2Y.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    }
+    ,
+    { 
+        name: "Watashi ga Omou, Konna Onna (Nakazawa) (2002)", 
+        img: "https://i.imgur.com/tTnVfkR.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    }
+    ,
+    { 
+        name: "PASSIONABLE (Fukuda) (2020)", 
+        img: "https://i.imgur.com/wvBg2uc.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    }
+    ,
+    { 
+        name: "Kei (Yasuda) (2002)", 
+        img: "https://i.imgur.com/ZDKBFMv.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    }
+    ,
+    { 
+        name: "Yaguchi (Yaguchi) (2002)", 
+        img: "https://i.imgur.com/zJJSd3e.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Love-Hello! Yaguchi Mari (Yaguchi) (2003)", 
+        img: "https://i.imgur.com/sce5P1y.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "OFF (Yaguchi) (2004)", 
+        img: "https://i.imgur.com/lyKDawJ.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    }
+    ,
+    { 
+        name: "self (Ichii) (2002)", 
+        img: "https://i.imgur.com/uwiEfm6.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    }
+    ,
+    { 
+        name: "Goto Maki (Goto) (2001)", 
+        img: "https://i.imgur.com/YLluvsP.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "maki (Goto) (2003)", 
+        img: "https://i.imgur.com/r1sTUj3.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "more maki (Goto) (2003)", 
+        img: "https://i.imgur.com/BlG4Tcq.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "PRISM (Goto) (2004)", 
+        img: "https://i.imgur.com/f5FAh5x.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Alo-Hello! Goto Maki (Goto) (2004)", 
+        img: "https://i.imgur.com/NLRGhfW.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Dear... (Goto) (2005)", 
+        img: "https://i.imgur.com/bJuEJuI.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "FOXY FUNGO (Goto) (2006)", 
+        img: "https://i.imgur.com/nNQ4zzK.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "go to natura... (Goto) (2011)", 
+        img: "https://i.imgur.com/mLPKAvz.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    }
+    ,
+    { 
+        name: "Rika Ishikawa (Ishikawa) (2001)", 
+        img: "https://i.imgur.com/mYCJOCq.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Ishikawa Rika (Ishikawa) (2002)", 
+        img: "https://i.imgur.com/l4ifJGu.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "I (Ishikawa) (2003)", 
+        img: "https://i.imgur.com/Q5AKFkp.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Hanabi hana-bi (Ishikawa) (2004)", 
+        img: "https://i.imgur.com/LDTew8m.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Ishikawa Rika Shiawase no Ashiato Happpy! (Ishikawa) (2005)", 
+        img: "https://i.imgur.com/K7rSYYB.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Oui, mon amour (Ishikawa) (2006)", 
+        img: "https://i.imgur.com/CqT1ONz.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Abyuu (Ishikawa) (2007)", 
+        img: "https://i.imgur.com/k4ayGpz.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Kazahana (Ishikawa) (2008)", 
+        img: "https://i.imgur.com/9Syb4ft.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Karen (Ishikawa) (2009)", 
+        img: "https://i.imgur.com/sP84pHO.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "24 Twenty Four (Ishikawa) (2009)", 
+        img: "https://i.imgur.com/uB43r2i.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Lucky☆ (Ishikawa) (2011)", 
+        img: "https://i.imgur.com/Ic2icdB.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Hana Gokoro ~hanagocoro~) (Ishikawa) (2012)", 
+        img: "https://i.imgur.com/tajSggm.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    }
+    ,
+    { 
+        name: "Yossy (Yoshizawa) (2001)", 
+        img: "https://i.imgur.com/lXoETc7.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "8teen (Yoshizawa) (2004)", 
+        img: "https://i.imgur.com/mij8uYd.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    { 
+        name: "Hello! Yossy (Yoshizawa) (2007)", 
+        img: "https://i.imgur.com/KPS3Rrq.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    { 
+        name: "Nono♥ (Tsuji) (2003)", 
+        img: "https://i.imgur.com/QjSvjcE.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    { 
+        name: "Non no 19 (Tsuji) (2006)", 
+        img: "https://i.imgur.com/qF4Bla5.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    }
+    ,
+    { 
+        name: "KAGO ai → GO ON THE JOURNEY! (Kago) (2003)", 
+        img: "https://i.imgur.com/t5yBuZC.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Gekkan Kago Ai SUPER CARGO (Kago) (2009)", 
+        img: "https://i.imgur.com/gx5BJRO.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Kinyoubi (Kago) (2009)", 
+        img: "https://i.imgur.com/0lufMET.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    },
+    
+    { 
+        name: "Los Angeles (Kago) (2010)", 
+        img: "https://i.imgur.com/TVrgJp7.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen1t4"]
+        }
+    }
+    ,
+    { 
+        name: "Takahashi Ai (高橋愛) (Takahashi) (2002)", 
+        img: "https://i.imgur.com/KpRTa5B.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Alo Hello! Takahashi Ai (アロハロ!高橋愛) (Takahashi) (2003)", 
+        img: "https://i.imgur.com/FCL5YSi.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Wataame (わたあめ) (Takahashi) (2004)", 
+        img: "https://i.imgur.com/q3fClVi.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Ai Gokoro (愛ごころ) (Takahashi) (2005)", 
+        img: "https://i.imgur.com/zebOBtI.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "19 (Takahashi) (2006)", 
+        img: "https://i.imgur.com/F4ZQcFG.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "ai (Takahashi) (2006)", 
+        img: "https://i.imgur.com/bbYE66o.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Love-Hello! Takahashi Ai Shashinshuu in Phuket (ラブハロ！高橋愛写真集inプーケット) (Takahashi) (2007)", 
+        img: "https://i.imgur.com/AfkV820.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Mizu (水) (Takahashi) (2007)", 
+        img: "https://i.imgur.com/K6lR04t.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Mou Hitotsu no Ai (もうひとつの愛) (Takahashi) (2008)", 
+        img: "https://i.imgur.com/xpK2A5d.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Watashi (私) (Takahashi) (2009)", 
+        img: "https://i.imgur.com/Z8NHfb0.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Katachi (形) (Takahashi) (2010)", 
+        img: "https://i.imgur.com/Pq6jCV2.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "LOVE NO.10 (Takahashi) (2011)", 
+        img: "https://i.imgur.com/3TVq1FR.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Ai Ai Ai (愛 愛 愛) (Takahashi) (2011)", 
+        img: "https://i.imgur.com/6yHETKl.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    }
+    ,
+    { 
+        name: "Asami Konno (紺野あさ美) (Konno) (2004)", 
+        img: "https://i.imgur.com/nLnR4nG.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Natsufuku ~Natsu o Sugosu Shōjo~ (なつふく ～夏を過ごす少女～) (Konno) (2005)", 
+        img: "https://i.imgur.com/5ZCotdA.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Alo Hello! Konno Asami (アロハロ！紺野あさ美写真集) (Konno) (2006)", 
+        img: "https://i.imgur.com/UTTyMcq.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "See You Again (Konno) (2006)", 
+        img: "https://i.imgur.com/Wt6vXRw.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Sweet Days - Asami Konno Shashinshū Zenshu (紺野あさ美 写真集全集『Sweet Days』) (Konno) (2006)", 
+        img: "https://i.imgur.com/G8yjIyr.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    }
+    ,
+    { 
+        name: "Ogawa Makoto (小川麻琴) (Ogawa) (2005)", 
+        img: "https://i.imgur.com/F1Jvsdd.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Natsu no Uta (夏ノ詩（なつのうた）) (Ogawa) (2006)", 
+        img: "https://i.imgur.com/A0ibI3r.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    }
+    ,
+    { 
+        name: "Niigaki Risa (新垣里沙) (Niigaki) (2004)", 
+        img: "https://i.imgur.com/vZtx08s.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Amanatsu (あま夏) (Niigaki) (2006)", 
+        img: "https://i.imgur.com/ENTW1Kg.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Isshun (一瞬) (Niigaki) (2007)", 
+        img: "https://i.imgur.com/CUZo2xf.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Happy Girl (Niigaki) (2008)", 
+        img: "https://i.imgur.com/zZ59Glg.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Alo!-Hello Niigaki Risa Photobook -MAHALO- (アロハロ！新垣里沙写真集-MAHALO-) (Niigaki) (2010)", 
+        img: "https://i.imgur.com/2YLHJHW.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "ASCENSION (Niigaki) (2012)", 
+        img: "https://i.imgur.com/HqqcS7M.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    }
+    ,
+    { 
+        name: "Alo Hello! Fujimoto Miki (アロハロ！藤本美貴) (Fujimoto) (2003)", 
+        img: "https://i.imgur.com/mDyo2wD.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Mikitty (Fujimoto) (2004)", 
+        img: "https://i.imgur.com/Qh0FyIi.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Real 226 (リアル226 ) (Fujimoto) (2005)", 
+        img: "https://i.imgur.com/kNNe1PM.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "cheri (Fujimoto) (2005)", 
+        img: "https://i.imgur.com/JrOLLxI.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "COEUR (Fujimoto) (2006)", 
+        img: "https://i.imgur.com/OpQ8UdJ.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    }
+    ,
+    { 
+        name: "Kamei Eri (亀井絵里) (Kamei) (2004)", 
+        img: "https://i.imgur.com/2scPQQB.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "DAYS (Kamei) (2005)", 
+        img: "https://i.imgur.com/QN6vAkT.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "17sai (17才) (Kamei) (2006)", 
+        img: "https://i.imgur.com/Q39KbrC.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Love-Hello! Kamei Eri in Phuket (ラブハロ! 亀井絵里 in プーケット) (Kamei) (2007)", 
+        img: "https://i.imgur.com/gKy81dZ.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "MAPLE (Kamei) (2007)", 
+        img: "https://i.imgur.com/svIAue5.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "ERI (Kamei) (2008)", 
+        img: "https://i.imgur.com/mv3qOaG.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "20 (Hatachi) (20 (はたち)) (Kamei) (2008)", 
+        img: "https://i.imgur.com/Rh8Jfrq.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "sweet (Kamei) (2010)", 
+        img: "https://i.imgur.com/A6ueFGJ.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Eririn (えりりん) (Kamei) (2010)", 
+        img: "https://i.imgur.com/uK86t41.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "THANKS (Kamei) (2010)", 
+        img: "https://i.imgur.com/CiGVs8v.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    }
+    ,
+    { 
+        name: "Michishige Sayumi (道重さゆみ) (Michishige) (2004)", 
+        img: "https://i.imgur.com/GyERzlm.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Doukei (憧憬) (Michishige) (2007)", 
+        img: "https://i.imgur.com/n1PTapT.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "17 Love-Hello! Michishige Sayumi (17ラブハロ! 道重さゆみ) (Michishige) (2007)", 
+        img: "https://i.imgur.com/iiw2T1r.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Sousou (蒼蒼) (Michishige) (2007)", 
+        img: "https://i.imgur.com/JFcFEbf.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "LOVE LETTER (Michishige) (2008)", 
+        img: "https://i.imgur.com/ksRA7zr.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "20sai 7gatsu 13nichi (20歳7月13日) (Michishige) (2009)", 
+        img: "https://i.imgur.com/qGVzw7w.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Lā (Michishige) (2010)", 
+        img: "https://i.imgur.com/tkrkIlB.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Sayuminglandoll (Michishige) (2011)", 
+        img: "https://i.imgur.com/wOZrqch.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Mille-feuille (美ルフィーユ) (Michishige) (2013)", 
+        img: "https://i.imgur.com/zoKuf2F.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Blue Rose (Michishige) (2013)", 
+        img: "https://i.imgur.com/INdQryS.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "YOUR LOVE (Michishige) (2014)", 
+        img: "https://i.imgur.com/yyY5IMk.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "DREAM (Michishige) (2018)", 
+        img: "https://i.imgur.com/ZD3djA1.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    { 
+        name: "Tanaka Reina (田中れいな) (Tanaka) (2004)", 
+        img: "https://i.imgur.com/H2V4w7q.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Reina (れいな) (Tanaka) (2005)", 
+        img: "https://i.imgur.com/TT8rDKi.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Shoujo R (少女Ｒ) (Tanaka) (2006)", 
+        img: "https://i.imgur.com/B4vW4s6.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Alo-Hello! Tanaka Reina Shashinshuu (アロハロ！田中れいな写真集) (Tanaka) (2007)", 
+        img: "https://i.imgur.com/w4C5gvj.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "GIRL (Tanaka) (2007)", 
+        img: "https://i.imgur.com/ZrGHdTG.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Re: (Tanaka) (2008)", 
+        img: "https://i.imgur.com/xTqoKjT.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Very Reina (Tanaka) (2008)", 
+        img: "https://i.imgur.com/VdFIojE.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Kira☆Kira (きら☆きら) (Tanaka) (2012)", 
+        img: "https://i.imgur.com/dY58VL5.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Tanakamesen (タナカめせん) (Tanaka) (2013)", 
+        img: "https://i.imgur.com/SjZi8Z4.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    { 
+        name: "Kusumi Koharu (Kusumi) (2006)", 
+        img: "https://i.imgur.com/ufwlERC.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "POP (Kusumi) (2007)", 
+        img: "https://i.imgur.com/ILZvkaA.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Koharu Nikki. (Kusumi) (2008)", 
+        img: "https://i.imgur.com/AIr5ydg.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Tsukishima Kirari Kusumi Koharu Happy Memorial☆Photobook (Tsukishima Kirari starring Kusumi Koharu (Morning Musume)) (Kusumi) (2008)", 
+        img: "https://i.imgur.com/0b2RkhI.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "Sugar Doll (Kusumi) (2009)", 
+        img: "https://i.imgur.com/SqJqokf.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    },
+    
+    { 
+        name: "moment (Kusumi) (2017)", 
+        img: "https://i.imgur.com/CbNQnq1.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    }
+    ,
+    
+    { 
+        name: "Aika (Mitsui) (2011)", 
+        img: "https://i.imgur.com/WiNKZ6g.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen5t8"]
+        }
+    }
+    ,
+    { 
+        name: "Sayashi Riho (Sayashi) (2011)", 
+        img: "https://i.imgur.com/ZFlEKhg.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen9t12"]
+        }
+    },
+    
+    { 
+        name: "Un Deux Trois (Sayashi) (2012)", 
+        img: "https://i.imgur.com/CyIK72r.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen9t12"]
+        }
+    },
+    
+    { 
+        name: "Taiyou (Sayashi) (2013)", 
+        img: "https://i.imgur.com/uZjVgEW.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen9t12"]
+        }
+    },
+    
+    { 
+        name: "Juurokusai (Sayashi) (2015)", 
+        img: "https://i.imgur.com/Zkx2jTZ.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen9t12"]
+        }
+    },
+    
+    { 
+        name: "Morning Musume Sayashi Riho Zenshuu 2011-2015 (Sayashi) (2015)", 
+        img: "https://i.imgur.com/pQCNJ3v.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen9t12"]
+        }
+    }
+    ,
+    { 
+        name: "(2017) Haruiro  (Iikubo)", 
+        img: "https://i.imgur.com/3AVAWoB.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen9t12"]
+        }
+    },
+    
+    { 
+        name: "female (Iikubo) (2018)", 
+        img: "https://i.imgur.com/g6Yo2BM.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen9t12"]
+        }
+    }
+    ,
+    { 
+        name: "Do (Kudo) (2012)", 
+        img: "https://i.imgur.com/qrwihXR.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen9t12"]
+        }
+    },
+    
+    { 
+        name: "Ashita Tenki ni Naare! (あした天気になーれ！) (Kudo) (2014)", 
+        img: "https://i.imgur.com/jIuWrsl.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen9t12"]
+        }
+    },
+    
+    { 
+        name: "Harukaze (ハルカゼ) (Kudo) (2016)", 
+        img: "https://i.imgur.com/zDurkEW.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen9t12"]
+        }
+    },
+    
+    { 
+        name: "Kudo Haruka (Kudo) (2017)", 
+        img: "https://i.imgur.com/EOIroeQ.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen9t12"]
+        }
+    },
+    
+    { 
+        name: "Lively (Kudo) (2020)", 
+        img: "https://i.imgur.com/gKVyEDp.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen9t12"]
+        }
+    },
+    { 
+        name: "Ogata Haruna Greeting -Photobook- (Ogata) (2016)", 
+        img: "https://i.imgur.com/RhT8g02.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exmm","mmgen9t12"]
+        }
+    }
+
+    ,
+    { 
+        name: "Shimizu Saki (Shimizu) (2011)", 
+        img: "https://i.imgur.com/MJe1NoU.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exbk"]
+        }
+    }
+    ,
+    { 
+        name: "Chinami (Tokunaga) (2009)", 
+        img: "https://i.imgur.com/VbgTy2R.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exbk"]
+        }
+    }
+    ,
+    { 
+        name: "Metamorphose (Tokunaga) (2012)", 
+        img: "https://i.imgur.com/v5SCAQJ.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exbk"]
+        }
+    }
+    ,
+    { 
+        name: "maasa (Sudo) (2009)", 
+        img: "https://i.imgur.com/iZgcosk.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exbk"]
+        }
+    }
+    ,
+    { 
+        name: "MIYABI (Natsuyaki) (2007)", 
+        img: "https://i.imgur.com/1xkejvm.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exbk"]
+        }
+    }
+    ,
+    { 
+        name: "GLOW (Natsuyaki) (2013)", 
+        img: "https://i.imgur.com/bkbNB1f.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exbk"]
+        }
+    }
+    ,
+    { 
+        name: "Yurina (Kumai) (2007)", 
+        img: "https://i.imgur.com/xxEGZN3.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exbk"]
+        }
+    }
+    ,
+    { 
+        name: "FLOWERAGE (Kumai) (2009)", 
+        img: "https://i.imgur.com/JBFAwxz.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exbk"]
+        }
+    }
+    ,
+    { 
+        name: "KumaSpo! (Kumai) (2010)", 
+        img: "https://i.imgur.com/GAPckgT.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exbk"]
+        }
+    }
+    ,
+    { 
+        name: "Risako (Sugaya) (2006)", 
+        img: "https://i.imgur.com/PjKkuta.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exbk"]
+        }
+    }
+    ,
+    { 
+        name: "pure+ (Sugaya) (2007)", 
+        img: "https://i.imgur.com/1wtLpGT.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exbk"]
+        }
+    }
+    ,
+    { 
+        name: "Ring3 ~Rin Rin Rin~  (Sugaya) (2008)", 
+        img: "https://i.imgur.com/TdWE0Dc.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exbk"]
+        }
+    }
+    ,
+    { 
+        name: "Risou (Sugaya) (2009)", 
+        img: "https://i.imgur.com/RARU6zx.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exbk"]
+        }
+    }
+
+    ,
+    { 
+        name: "Maimi (Yajima) (2007)", 
+        img: "https://i.imgur.com/TmIxvjQ.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Sou Sola (Yajima) (2008)", 
+        img: "https://i.imgur.com/FnnOhu3.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "17 (Yajima) (2009)", 
+        img: "https://i.imgur.com/l2w4RjH.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Yajima Maimi Shashinkan 2008-2010 (Yajima) (2010)", 
+        img: "https://i.imgur.com/aUtiAnj.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Tabioto (Yajima) (2011)", 
+        img: "https://i.imgur.com/Il9nqur.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Hatachi (Yajima) (2012)", 
+        img: "https://i.imgur.com/fthZvyX.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "My Museum (Yajima) (2013)", 
+        img: "https://i.imgur.com/SZ4VFoG.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Glass to Mizu (Yajima) (2013)", 
+        img: "https://i.imgur.com/NfSXI58.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "PURE EYES (Yajima) (2014)", 
+        img: "https://i.imgur.com/gMvqnPo.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Nobody knows23 (Yajima) (2015)", 
+        img: "https://i.imgur.com/g3CvPin.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Hitori no Kisetsu (Yajima) (2016)", 
+        img: "https://i.imgur.com/CUgNaSc.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Matataki (Yajima) (2018)", 
+        img: "https://i.imgur.com/i6wbk5M.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "NACKY (Nakajima) (2009)", 
+        img: "https://i.imgur.com/M22kd9M.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "W SAKI (Nakajima) (2011)", 
+        img: "https://i.imgur.com/BDBVaJm.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Naka-san (Nakajima) (2013)", 
+        img: "https://i.imgur.com/xkyliS8.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "N20 (Nakajima) (2014)", 
+        img: "https://i.imgur.com/scG96nU.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Airi (Suzuki) (2007)", 
+        img: "https://i.imgur.com/GSp6Sc6.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "CLEAR (Suzuki) (2007)", 
+        img: "https://i.imgur.com/y8oexAZ.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "6gatsu no Kajitsu (Suzuki) (2008)", 
+        img: "https://i.imgur.com/d9NgPDQ.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Aoiro (Suzuki) (2009)", 
+        img: "https://i.imgur.com/Vc9BJKb.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Toukobi (Suzuki) (2010)", 
+        img: "https://i.imgur.com/TO9RhR9.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Meguru Haru (Suzuki) (2011)", 
+        img: "https://i.imgur.com/g9fwFyp.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "OASIS (Suzuki) (2011)", 
+        img: "https://i.imgur.com/YpkaoK4.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Kono Kaze ga Suki (Suzuki) (2012)", 
+        img: "https://i.imgur.com/8UR9We5.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Sotsugyou (Suzuki) (2013)", 
+        img: "https://i.imgur.com/0AhoBBy.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Oyoganai Natsu (Suzuki) (2013)", 
+        img: "https://i.imgur.com/TeRmD1r.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Kyomei (Suzuki) (2014)", 
+        img: "https://i.imgur.com/YOqnKDw.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Eien (Suzuki) (2017)", 
+        img: "https://i.imgur.com/pJGM3v3.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Chisato (Okai) (2010)", 
+        img: "https://i.imgur.com/hzMoacq.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Hagiwara Mai (Hagiwara) (2009)", 
+        img: "https://i.imgur.com/fvFap0Z.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+    ,
+    { 
+        name: "Mai② (Hagiwara) (2013)", 
+        img: "https://i.imgur.com/v8z4vIT.jpg"
+        , opts:{
+            subkeyaki: ["expbs","excute"]
+        }
+    }
+
+
+
+
+
+    
+
 ];
 
 dataSet[dataSetVersion].options = [
@@ -610,6 +2051,11 @@ dataSet[dataSetVersion].options = [
             { name: 'Greeting Photobooks', key: 'gpbs' },
             { name: 'Ex-Country Girls Photobooks', key: 'excg' },
             { name: 'Ex-Kobushi Factory Photobooks', key: 'exkb' },
+            { name: 'Ex-Morning Musume Photobooks Generations 1, 2, 3 and 4', key: 'mmgen1t4' },
+            { name: 'Ex-Morning Musume Photobooks Generations 5, 6, 7 and 8', key: 'mmgen5t8' },
+            { name: 'Ex-Morning Musume Photobooks Generations 9, 10, 11 and 12', key: 'mmgen9t12' },
+            { name: 'Ex-Berryz Koubou Photobooks', key: 'exbk' },
+            { name: 'Ex-℃-ute Photobooks', key: 'excute' }
         ]
     }
 
