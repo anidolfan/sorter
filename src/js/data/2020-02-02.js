@@ -2024,13 +2024,16 @@ dataSet[dataSetVersion].characterData = [
         , opts:{
             subkeyaki: ["expbs","excute"]
         }
+    },
+    {
+        name: "Kana (Nakanishi) (2019)", 
+        img: "https://i.imgur.com/LGlwnT3.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exangerme", "vpbs"]
+        }
+
     }
 
-
-
-
-
-    
 
 ];
 
