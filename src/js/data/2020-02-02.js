@@ -1019,7 +1019,7 @@ dataSet[dataSetVersion].characterData = [
     }
     ,
     { 
-        name: "Takahashi Ai (高橋愛) (Takahashi) (2002)", 
+        name: "Takahashi Ai (Takahashi) (2002)", 
         img: "https://i.imgur.com/KpRTa5B.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1027,7 +1027,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Alo Hello! Takahashi Ai (アロハロ!高橋愛) (Takahashi) (2003)", 
+        name: "Alo Hello! Takahashi Ai (Takahashi) (2003)", 
         img: "https://i.imgur.com/FCL5YSi.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1035,7 +1035,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Wataame (わたあめ) (Takahashi) (2004)", 
+        name: "Wataame (Takahashi) (2004)", 
         img: "https://i.imgur.com/q3fClVi.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1043,7 +1043,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Ai Gokoro (愛ごころ) (Takahashi) (2005)", 
+        name: "Ai Gokoro (Takahashi) (2005)", 
         img: "https://i.imgur.com/zebOBtI.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1067,7 +1067,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Love-Hello! Takahashi Ai Shashinshuu in Phuket (ラブハロ！高橋愛写真集inプーケット) (Takahashi) (2007)", 
+        name: "Love-Hello! Takahashi Ai Shashinshuu in Phuket (Takahashi) (2007)", 
         img: "https://i.imgur.com/AfkV820.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1075,7 +1075,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Mizu (水) (Takahashi) (2007)", 
+        name: "Mizu (Takahashi) (2007)", 
         img: "https://i.imgur.com/K6lR04t.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1083,7 +1083,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Mou Hitotsu no Ai (もうひとつの愛) (Takahashi) (2008)", 
+        name: "Mou Hitotsu no Ai (Takahashi) (2008)", 
         img: "https://i.imgur.com/xpK2A5d.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1091,7 +1091,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Watashi (私) (Takahashi) (2009)", 
+        name: "Watashi (Takahashi) (2009)", 
         img: "https://i.imgur.com/Z8NHfb0.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1099,7 +1099,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Katachi (形) (Takahashi) (2010)", 
+        name: "Katachi (Takahashi) (2010)", 
         img: "https://i.imgur.com/Pq6jCV2.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1115,7 +1115,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Ai Ai Ai (愛 愛 愛) (Takahashi) (2011)", 
+        name: "Ai Ai Ai (Takahashi) (2011)", 
         img: "https://i.imgur.com/6yHETKl.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1123,7 +1123,7 @@ dataSet[dataSetVersion].characterData = [
     }
     ,
     { 
-        name: "Asami Konno (紺野あさ美) (Konno) (2004)", 
+        name: "Asami Konno (Konno) (2004)", 
         img: "https://i.imgur.com/nLnR4nG.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1131,7 +1131,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Natsufuku ~Natsu o Sugosu Shōjo~ (なつふく ～夏を過ごす少女～) (Konno) (2005)", 
+        name: "Natsufuku ~Natsu o Sugosu Shōjo~ (Konno) (2005)", 
         img: "https://i.imgur.com/5ZCotdA.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1139,7 +1139,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Alo Hello! Konno Asami (アロハロ！紺野あさ美写真集) (Konno) (2006)", 
+        name: "Alo Hello! Konno Asami (Konno) (2006)", 
         img: "https://i.imgur.com/UTTyMcq.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1155,7 +1155,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Sweet Days - Asami Konno Shashinshū Zenshu (紺野あさ美 写真集全集『Sweet Days』) (Konno) (2006)", 
+        name: "Sweet Days - Asami Konno Shashinshū Zenshu (Konno) (2006)", 
         img: "https://i.imgur.com/G8yjIyr.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1163,7 +1163,7 @@ dataSet[dataSetVersion].characterData = [
     }
     ,
     { 
-        name: "Ogawa Makoto (小川麻琴) (Ogawa) (2005)", 
+        name: "Ogawa Makoto (Ogawa) (2005)", 
         img: "https://i.imgur.com/F1Jvsdd.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1171,7 +1171,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Natsu no Uta (夏ノ詩（なつのうた）) (Ogawa) (2006)", 
+        name: "Natsu no Uta (Ogawa) (2006)", 
         img: "https://i.imgur.com/A0ibI3r.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1179,7 +1179,7 @@ dataSet[dataSetVersion].characterData = [
     }
     ,
     { 
-        name: "Niigaki Risa (新垣里沙) (Niigaki) (2004)", 
+        name: "Niigaki Risa (Niigaki) (2004)", 
         img: "https://i.imgur.com/vZtx08s.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1187,7 +1187,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Amanatsu (あま夏) (Niigaki) (2006)", 
+        name: "Amanatsu (Niigaki) (2006)", 
         img: "https://i.imgur.com/ENTW1Kg.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1195,7 +1195,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Isshun (一瞬) (Niigaki) (2007)", 
+        name: "Isshun (Niigaki) (2007)", 
         img: "https://i.imgur.com/CUZo2xf.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1211,7 +1211,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Alo!-Hello Niigaki Risa Photobook -MAHALO- (アロハロ！新垣里沙写真集-MAHALO-) (Niigaki) (2010)", 
+        name: "Alo!-Hello Niigaki Risa Photobook -MAHALO- (Niigaki) (2010)", 
         img: "https://i.imgur.com/2YLHJHW.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1227,7 +1227,7 @@ dataSet[dataSetVersion].characterData = [
     }
     ,
     { 
-        name: "Alo Hello! Fujimoto Miki (アロハロ！藤本美貴) (Fujimoto) (2003)", 
+        name: "Alo Hello! Fujimoto Miki (Fujimoto) (2003)", 
         img: "https://i.imgur.com/mDyo2wD.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1243,7 +1243,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Real 226 (リアル226 ) (Fujimoto) (2005)", 
+        name: "Real 226 (Fujimoto) (2005)", 
         img: "https://i.imgur.com/kNNe1PM.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1267,7 +1267,7 @@ dataSet[dataSetVersion].characterData = [
     }
     ,
     { 
-        name: "Kamei Eri (亀井絵里) (Kamei) (2004)", 
+        name: "Kamei Eri (Kamei) (2004)", 
         img: "https://i.imgur.com/2scPQQB.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1283,7 +1283,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "17sai (17才) (Kamei) (2006)", 
+        name: "17sai (Kamei) (2006)", 
         img: "https://i.imgur.com/Q39KbrC.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1291,7 +1291,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Love-Hello! Kamei Eri in Phuket (ラブハロ! 亀井絵里 in プーケット) (Kamei) (2007)", 
+        name: "Love-Hello! Kamei Eri in Phuket (Kamei) (2007)", 
         img: "https://i.imgur.com/gKy81dZ.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1315,7 +1315,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "20 (Hatachi) (20 (はたち)) (Kamei) (2008)", 
+        name: "20 (Hatachi) (Kamei) (2008)", 
         img: "https://i.imgur.com/Rh8Jfrq.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1331,7 +1331,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Eririn (えりりん) (Kamei) (2010)", 
+        name: "Eririn (Kamei) (2010)", 
         img: "https://i.imgur.com/uK86t41.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1347,7 +1347,7 @@ dataSet[dataSetVersion].characterData = [
     }
     ,
     { 
-        name: "Michishige Sayumi (道重さゆみ) (Michishige) (2004)", 
+        name: "Michishige Sayumi (Michishige) (2004)", 
         img: "https://i.imgur.com/GyERzlm.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1355,7 +1355,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Doukei (憧憬) (Michishige) (2007)", 
+        name: "Doukei (Michishige) (2007)", 
         img: "https://i.imgur.com/n1PTapT.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1363,7 +1363,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "17 Love-Hello! Michishige Sayumi (17ラブハロ! 道重さゆみ) (Michishige) (2007)", 
+        name: "17 Love-Hello! Michishige Sayumi (Michishige) (2007)", 
         img: "https://i.imgur.com/iiw2T1r.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1371,7 +1371,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Sousou (蒼蒼) (Michishige) (2007)", 
+        name: "Sousou (Michishige) (2007)", 
         img: "https://i.imgur.com/JFcFEbf.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1387,7 +1387,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "20sai 7gatsu 13nichi (20歳7月13日) (Michishige) (2009)", 
+        name: "20sai 7gatsu 13nichi (Michishige) (2009)", 
         img: "https://i.imgur.com/qGVzw7w.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1411,7 +1411,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Mille-feuille (美ルフィーユ) (Michishige) (2013)", 
+        name: "Mille-feuille (Michishige) (2013)", 
         img: "https://i.imgur.com/zoKuf2F.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1442,7 +1442,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     { 
-        name: "Tanaka Reina (田中れいな) (Tanaka) (2004)", 
+        name: "Tanaka Reina (Tanaka) (2004)", 
         img: "https://i.imgur.com/H2V4w7q.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1450,7 +1450,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Reina (れいな) (Tanaka) (2005)", 
+        name: "Reina (Tanaka) (2005)", 
         img: "https://i.imgur.com/TT8rDKi.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1458,7 +1458,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Shoujo R (少女Ｒ) (Tanaka) (2006)", 
+        name: "Shoujo R (Tanaka) (2006)", 
         img: "https://i.imgur.com/B4vW4s6.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1466,7 +1466,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Alo-Hello! Tanaka Reina Shashinshuu (アロハロ！田中れいな写真集) (Tanaka) (2007)", 
+        name: "Alo-Hello! Tanaka Reina Shashinshuu (Tanaka) (2007)", 
         img: "https://i.imgur.com/w4C5gvj.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1498,7 +1498,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Kira☆Kira (きら☆きら) (Tanaka) (2012)", 
+        name: "Kira☆Kira (Tanaka) (2012)", 
         img: "https://i.imgur.com/dY58VL5.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1506,7 +1506,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Tanakamesen (タナカめせん) (Tanaka) (2013)", 
+        name: "Tanakamesen (Tanaka) (2013)", 
         img: "https://i.imgur.com/SjZi8Z4.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1537,7 +1537,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Tsukishima Kirari Kusumi Koharu Happy Memorial☆Photobook (Tsukishima Kirari starring Kusumi Koharu (Morning Musume)) (Kusumi) (2008)", 
+        name: "Tsukishima Kirari Kusumi Koharu Happy Memorial☆Photobook (Kusumi) (2008)", 
         img: "https://i.imgur.com/0b2RkhI.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen5t8"]
@@ -1610,7 +1610,7 @@ dataSet[dataSetVersion].characterData = [
     }
     ,
     { 
-        name: "(2017) Haruiro  (Iikubo)", 
+        name: "Haruiro (Iikubo) (2017) ", 
         img: "https://i.imgur.com/3AVAWoB.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen9t12"]
@@ -1634,7 +1634,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Ashita Tenki ni Naare! (あした天気になーれ！) (Kudo) (2014)", 
+        name: "Ashita Tenki ni Naare! (Kudo) (2014)", 
         img: "https://i.imgur.com/jIuWrsl.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen9t12"]
@@ -1642,7 +1642,7 @@ dataSet[dataSetVersion].characterData = [
     },
     
     { 
-        name: "Harukaze (ハルカゼ) (Kudo) (2016)", 
+        name: "Harukaze (Kudo) (2016)", 
         img: "https://i.imgur.com/zDurkEW.jpg"
         , opts:{
             subkeyaki: ["expbs","exmm","mmgen9t12"]
