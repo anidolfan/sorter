@@ -2033,6 +2033,87 @@ dataSet[dataSetVersion].characterData = [
         }
 
     }
+    ,
+    {
+        name: "Wada Ayaka 16 (Wada) (2011)", 
+        img: "https://i.imgur.com/4pzLL80.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exangerme"]
+        }
+
+    }
+    ,
+    {
+        name: "aya (Wada) (2012)", 
+        img: "https://i.imgur.com/S82nv9n.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exangerme"]
+        }
+
+    }
+    ,
+    {
+        name: "Wada Ayaka (Wada) (2019)", 
+        img: "https://i.imgur.com/GODMrR1.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exangerme"]
+        }
+
+    }
+    ,
+    {
+        name: "Maeda Yuuka 15sai (Maeda) (2010)", 
+        img: "https://i.imgur.com/0YAcoY4.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exangerme"]
+        }
+
+    }
+    ,
+    {
+        name: "See You-karin (Maeda) (2011)", 
+        img: "https://i.imgur.com/YdIVIuV.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exangerme"]
+        }
+
+    }
+    ,
+    {
+        name: "Fukuda (Kanyon 17) (2012)", 
+        img: "https://i.imgur.com/hyvWUiY.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exangerme"]
+        }
+
+    }
+    ,
+    {
+        name: "Murota Mizuki Greeting -Photobook- (Murota) (2016)", 
+        img: "https://i.imgur.com/i88xAUv.jpg"
+        , opts:{
+            subkeyaki: ["expbs","gpbs","exangerme"]
+        }
+
+    }
+    ,
+    {
+        name: "MURO (Murota) (2017)", 
+        img: "https://i.imgur.com/EVg7iix.jpg"
+        , opts:{
+            subkeyaki: ["expbs","exangerme"]
+        }
+
+    }
+    ,
+    {
+        name: "Aikawa Maho Greeting -Photobook- (Aikawa) (2016)", 
+        img: "https://i.imgur.com/rw1cCGW.jpg"
+        , opts:{
+            subkeyaki: ["expbs","gpbs","exangerme"]
+        }
+
+    }
 
 
 ];
@@ -2058,9 +2139,9 @@ dataSet[dataSetVersion].options = [
             { name: 'Ex-Morning Musume Photobooks Generations 5, 6, 7 and 8', key: 'mmgen5t8' },
             { name: 'Ex-Morning Musume Photobooks Generations 9, 10, 11 and 12', key: 'mmgen9t12' },
             { name: 'Ex-Berryz Koubou Photobooks', key: 'exbk' },
-            { name: 'Ex-℃-ute Photobooks', key: 'excute' }
+            { name: 'Ex-℃-ute Photobooks', key: 'excute' },
+            { name: 'Ex-Angerme Photobooks', key: 'exangerme' }
         ]
     }
 
 ];
-
