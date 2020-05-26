@@ -455,7 +455,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Yamaki Risa Greeting -Photobook- (Yamaki) (2017)",
         "img": "https://i.imgur.com/4u4xwvC.jpg"
         , opts:{
-            subkeyaki: ["expbs","excg"]
+            subkeyaki: ["expbs","excg", "gpbs"]
         }
 
     }
@@ -464,7 +464,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "sketch me (Yamaki) (2018)",
         "img": "https://i.imgur.com/mn1PfZb.jpg"
         , opts:{
-            subkeyaki: ["expbs","excg"]
+            subkeyaki: ["expbs","excg","vpbs"]
         }
 
     }
@@ -473,7 +473,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Last Picture (Yamaki) (2019)",
         "img": "https://i.imgur.com/e3CCFZS.jpg"
         , opts:{
-            subkeyaki: ["expbs","excg"]
+            subkeyaki: ["expbs","excg","vpbs"]
         }
 
     }
@@ -482,7 +482,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Ozeki Mai Greeting -Photobook- (Ozeki) (2017)",
         "img": "https://i.imgur.com/PYlo3B1.jpg"
         , opts:{
-            subkeyaki: ["expbs","excg"]
+            subkeyaki: ["expbs","excg","gpbs"]
         }
 
     }
@@ -491,7 +491,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Mai BEST (Ozeki) (2019)",
         "img": "https://i.imgur.com/90eTRtH.jpg"
         , opts:{
-            subkeyaki: ["expbs","excg"]
+            subkeyaki: ["expbs","excg","vpbs"]
         }
 
     }
@@ -1621,7 +1621,7 @@ dataSet[dataSetVersion].characterData = [
         name: "female (Iikubo) (2018)", 
         img: "https://i.imgur.com/g6Yo2BM.jpg"
         , opts:{
-            subkeyaki: ["expbs","exmm","mmgen9t12"]
+            subkeyaki: ["expbs","exmm","mmgen9t12","vpbs"]
         }
     }
     ,
@@ -1668,7 +1668,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Ogata Haruna Greeting -Photobook- (Ogata) (2016)", 
         img: "https://i.imgur.com/RhT8g02.jpg"
         , opts:{
-            subkeyaki: ["expbs","exmm","mmgen9t12"]
+            subkeyaki: ["expbs","exmm","mmgen9t12","gpbs"]
         }
     }
 
