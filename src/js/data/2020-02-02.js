@@ -2113,6 +2113,14 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["expbs","gpbs","exangerme"]
         }
 
+    },
+    {
+        name: "Rikako -Shoujo, Dai Ni Shou- (Sasaki) (2020)", 
+        img: "https://i.imgur.com/SPWYAXh.jpg"
+        , opts:{
+            subkeyaki: ["pbs","angermepb"]
+        }
+
     }
 
 
