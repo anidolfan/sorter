@@ -1504,14 +1504,7 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["expbs","exmm","mmgen5t8"]
         }
     },
-    
-    { 
-        name: "Tanakamesen (Tanaka) (2013)", 
-        img: "https://i.imgur.com/SjZi8Z4.jpg"
-        , opts:{
-            subkeyaki: ["expbs","exmm","mmgen5t8"]
-        }
-    },
+        
     { 
         name: "Kusumi Koharu (Kusumi) (2006)", 
         img: "https://i.imgur.com/ufwlERC.jpg"
