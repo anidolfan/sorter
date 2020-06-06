@@ -154,7 +154,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Maria (Makino) (2016)",
         "img": "https://i.imgur.com/GVWxELx.jpg"
         , opts:{
-            subkeyaki: ["pbs","mmpb","2020"]
+            subkeyaki: ["pbs","mmpb"]
         }
     },
     {
@@ -189,7 +189,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Maria19 (Makino) (2020)",
         "img": "https://i.imgur.com/Uy1v139.jpg"
         , opts:{
-            subkeyaki: ["pbs","mmpb"]
+            subkeyaki: ["pbs","mmpb","2020"]
         }
     },
     {
