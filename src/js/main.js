@@ -662,8 +662,9 @@ function clearProgress() {
 
 function generateImage() {
   const timeFinished = timestamp + timeTaken;
-  const tzoffset = (new Date()).getTimezoneOffset() * 60000;
-  const filename = 'sort-' + (new Date(timeFinished - tzoffset)).toISOString().slice(0, -5).replace('T', '(') + ').png';
+  const date = new Date();
+  date.years
+  const filename = `[${date.getFullYear()}.${date.getMonth()+1}.${date.getDay()}.${date.getHours()}_${date.getMinutes()}_${date.getSeconds()}] Sorter.png`;
 
   html2canvas(document.querySelector('#new-results')).then(canvas => {
     const dataURL = canvas.toDataURL();

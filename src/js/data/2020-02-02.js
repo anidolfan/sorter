@@ -104,7 +104,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "believe in oneself (Ishida) (2020)",
         "img": "https://i.imgur.com/PL43SdW.jpg"
         , opts:{
-            subkeyaki: ["pbs","mmpb"]
+            subkeyaki: ["pbs","mmpb","2020"]
         }
 
     },
@@ -140,7 +140,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "SAKURA COLOR (Sakura) (2020)",
         "img": "https://i.imgur.com/MWWrgXl.jpg"
         , opts:{
-            subkeyaki: ["pbs","mmpb"]
+            subkeyaki: ["pbs","mmpb","2020"]
         }
     },
     {
@@ -154,7 +154,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Maria (Makino) (2016)",
         "img": "https://i.imgur.com/GVWxELx.jpg"
         , opts:{
-            subkeyaki: ["pbs","mmpb"]
+            subkeyaki: ["pbs","mmpb","2020"]
         }
     },
     {
@@ -203,7 +203,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Akane (Haga) (2020)",
         "img": "https://i.imgur.com/hCfdzFp.jpg"
         , opts:{
-            subkeyaki: ["pbs","mmpb"]
+            subkeyaki: ["pbs","mmpb","2020"]
         }
     },
     {
@@ -252,7 +252,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Mei (Yamazaki) (2020)",
         "img": "https://i.imgur.com/O6OHz1o.jpg"
         , opts:{
-            subkeyaki: ["vpbs","mmpb"]
+            subkeyaki: ["vpbs","mmpb","2020"]
         }
     },
 
@@ -296,7 +296,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "KESSYO (Funaki) (2020)",
         "img": "https://i.imgur.com/aInOojf.jpg"
         , opts:{
-            subkeyaki: ["pbs","angermepb","excg"]
+            subkeyaki: ["pbs","angermepb","excg","2020"]
         }
     },
     {
@@ -366,7 +366,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "RIN (Miyamoto) (2020)",
         "img": "https://i.imgur.com/goOkhlJ.jpg"
         , opts:{
-            subkeyaki: ["pbs","juicepb"]
+            subkeyaki: ["pbs","juicepb","2020"]
         }
     },
     {
@@ -415,7 +415,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "You ~You make me~ (Inoue) (2020)",
         "img": "https://i.imgur.com/S7OgAMI.jpg"
         , opts:{
-            subkeyaki: ["pbs","juicepb", "exkb"]
+            subkeyaki: ["pbs","juicepb","exkb","2020"]
         }
     },
     {
@@ -429,7 +429,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "R-21 (Yamagishi) (2020)",
         "img": "https://i.imgur.com/aD4k91t.jpg"
         , opts:{
-            subkeyaki: ["pbs","tsubakipb"]
+            subkeyaki: ["pbs","tsubakipb","2020"]
         }
     },
     {
@@ -745,7 +745,7 @@ dataSet[dataSetVersion].characterData = [
         name: "PASSIONABLE (Fukuda) (2020)", 
         img: "https://i.imgur.com/wvBg2uc.jpg"
         , opts:{
-            subkeyaki: ["expbs","exmm","mmgen1t4"]
+            subkeyaki: ["expbs","exmm","mmgen1t4","2020"]
         }
     }
     ,
@@ -1654,7 +1654,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Lively (Kudo) (2020)", 
         img: "https://i.imgur.com/gKVyEDp.jpg"
         , opts:{
-            subkeyaki: ["expbs","exmm","mmgen9t12"]
+            subkeyaki: ["expbs","exmm","mmgen9t12","2020"]
         }
     },
     { 
@@ -2111,7 +2111,16 @@ dataSet[dataSetVersion].characterData = [
         name: "Rikako -Shoujo, Dai Ni Shou- (Sasaki) (2020)", 
         img: "https://i.imgur.com/SPWYAXh.jpg"
         , opts:{
-            subkeyaki: ["pbs","angermepb"]
+            subkeyaki: ["pbs","angermepb","2020"]
+        }
+
+    }
+    ,
+    {
+        name: "Yuhane (Yamazaki) (2020)", 
+        img: "https://i.imgur.com/b7eHCBP.jpg"
+        , opts:{
+            subkeyaki: ["pbs","bypb","2020"]
         }
 
     }
@@ -2131,6 +2140,8 @@ dataSet[dataSetVersion].options = [
             { name: 'Juice=Juice Photobooks', key: 'juicepb' },
             { name: 'Angerme Photobooks', key: 'angermepb' },
             { name: 'Tsubaki Factory Photobooks', key: 'tsubakipb' },
+            { name: 'BEYOOOOONDS Photobooks', key: 'bypb' },
+            { name: '2020 Photobooks', key: '2020' },
             { name: 'Normal Photobooks', key: 'pbs' },
             { name: 'Visual Photobooks', key: 'vpbs' },
             { name: 'Greeting Photobooks', key: 'gpbs' },
