@@ -106,42 +106,42 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Takeuchi Akari",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/a8/TakeuchiAkari-Anju27thSingle.jpg/revision/latest/scale-to-width-down/300?cb=20191018142621"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b6/TakeuchiAkari-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123059"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Sasaki Rikako",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/e/e5/SasakiRikako-Anju27thSingle.jpg/revision/latest/scale-to-width-down/300?cb=20191018142902"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/0d/SasakiRikako-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123115"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kamikokuryo Moe",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/dc/KamikokuryoMoe-Anju27thSingle.jpg/revision/latest/scale-to-width-down/300?cb=20191018142838"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/8/85/KamikokuryoMoe-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123123"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kasahara Momona",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/31/KasaharaMomona-Anju27thSingle.jpg/revision/latest/scale-to-width-down/300?cb=20191018142848"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/1f/KasaharaMomona-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123130"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Funaki Musubu",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d8/FunakiMusubu-Anju27thSingle.jpg/revision/latest/scale-to-width-down/300?cb=20191018142715"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/2a/FunakiMusubu-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123146"
         , opts: {
             subkeyaki: ["angerme", "cg"]
         }
     },
     {
         "name": "Kawamura Ayano",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/1f/KawamuraAyano-Anju27thSingle.jpg/revision/latest/scale-to-width-down/300?cb=20191018142607"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/bd/KawamuraAyano-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123107"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -155,14 +155,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ise Layla",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/f/f9/IseLayla-Anju27thSingle.jpg/revision/latest/scale-to-width-down/300?cb=20191018142507"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/a2/IseLayla-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123210"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Hashisako Rin",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/0a/HashisakoRin-Anju27thSingle.jpg/revision/latest/scale-to-width-down/300?cb=20191018142459"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/5/55/HashisakoRin-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123230"
         , opts: {
             subkeyaki: ["angerme"]
         }
