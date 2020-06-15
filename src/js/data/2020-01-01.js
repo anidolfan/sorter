@@ -170,63 +170,63 @@ dataSet[dataSetVersion].characterData = [
     //Juice=Juice
     {
         "name": "Kanazawa Tomoko",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/5/52/Kanazawa-March2020.jpg/revision/latest/scale-to-width-down/270?cb=20200302111508"
+        "img": "https://i.imgur.com/1Soh1Rd.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Takagi Sayuki",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/f/f7/Takagi-March2020.jpg/revision/latest/scale-to-width-down/270?cb=20200302111513"
+        "img": "https://i.imgur.com/3DVM8GV.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Miyamoto Karin",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/e/ec/Miyamoto-March2020.jpg/revision/latest/scale-to-width-down/270?cb=20200302111518"
+        "img": "https://i.imgur.com/dLxPa86.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Uemura Akari",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/8/81/Uemura-March2020.jpg/revision/latest/scale-to-width-down/270?cb=20200302111523"
+        "img": "https://i.imgur.com/wv8IV7y.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Inaba Manaka",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d1/Inaba-March2020.jpg/revision/latest/scale-to-width-down/270?cb=20200302111534"
+        "img": "https://i.imgur.com/U4zaPPg.jpg"
         , opts: {
             subkeyaki: ["jj", "cg"]
         }
     },
     {
         "name": "Inoue Rei",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/65/InoueRei-January2020.jpg/revision/latest/scale-to-width-down/310?cb=20200127192218"
+        "img": "https://i.imgur.com/JnXdXGv.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "Dambara Ruru",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/e/e2/Dambara-March2020.jpg/revision/latest/scale-to-width-down/270?cb=20200302111529"
+        "img": "https://i.imgur.com/vO3mVVZ.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Kudo Yume",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/8/87/Kudo-March2020.jpg/revision/latest/scale-to-width-down/270?cb=20200302111539"
+        "img": "https://i.imgur.com/OlRUd3A.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Matsunaga Riai",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/c/cb/Matsunaga-March2020.jpg/revision/latest/scale-to-width-down/270?cb=20200302111544"
+        "img": "https://i.imgur.com/LTY5YKX.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
