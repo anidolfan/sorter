@@ -2124,6 +2124,32 @@ dataSet[dataSetVersion].characterData = [
         }
 
     }
+    ,
+    {
+        name: "BEYOOOOONDS① (Group) (2020)", 
+        img: "https://i.imgur.com/QA9irB2.jpg"
+        , opts:{
+            subkeyaki: ["pbs","bypb","2020"]
+        }
+
+    }
+    ,
+    {
+        name: "Juukyuusai no Natsu (Shimakura) (2020)", 
+        img: "https://i.imgur.com/rF1Y0ho.jpg"
+        , opts:{
+            subkeyaki: ["pbs","bypb","2020"]
+        }
+
+    }
+    ,
+    {
+        "name": "Homare (Okamura) (2020)",
+        "img": "https://i.imgur.com/KMhjlFd.jpg"
+        , opts:{
+            subkeyaki: ["vpbs","mmpb","2020"]
+        }
+    }
 
 
 ];
