@@ -195,7 +195,7 @@ dataSet[dataSetVersion].characterData = [
     }
     ,
     {
-        "name": "IchiokaPoint: ",
+        "name": "IchiokaPoint",
         "img": "https://i.imgur.com/DXlBIXZ.png"
         , opts: {
             subkeyaki: ["emt-by"]
@@ -339,7 +339,7 @@ dataSet[dataSetVersion].characterData = [
     }
     ,
     {
-        "name": "TakeWhat: ",
+        "name": "TakeWhat",
         "img": "https://i.imgur.com/O6ZeWWu.png"
         , opts: {
             subkeyaki: ["emt-anger"]
@@ -566,7 +566,7 @@ dataSet[dataSetVersion].characterData = [
 
     ,
     {
-        "name": "RiaiThreaten: ",
+        "name": "RiaiThreaten",
         "img": "https://i.imgur.com/3GBis5v.png"
         , opts: {
             subkeyaki: ["emt-jj"]
