@@ -843,7 +843,7 @@ dataSet[dataSetVersion].characterData = [
 
     ,
     {
-        "name": "SayarinThink: ",
+        "name": "SayarinThink",
         "img": "https://i.imgur.com/34S3SnY.png"
         , opts: {
             subkeyaki: ["emt-by"]
