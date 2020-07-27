@@ -238,63 +238,63 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Yamagishi Riko",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/3d/YamagishiRiko-DakishimerareteMitai.jpg/revision/latest/scale-to-width-down/300?cb=20191211041837"
+        "img": "https://i.imgur.com/6llSmBG.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Ogata Risa",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/37/OgataRisa-DakishimerareteMitai.jpg/revision/latest/scale-to-width-down/300?cb=20191211041844"
+        "img": "https://i.imgur.com/KF1Ri4i.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Niinuma Kisora",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/28/NiinumaKisora-DakishimerareteMitai.jpg/revision/latest/scale-to-width-down/300?cb=20191211041852"
+        "img": "https://i.imgur.com/tbxM9vH.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Tanimoto Ami",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/14/TanimotoAmi-DakishimerareteMitai.jpg/revision/latest/scale-to-width-down/300?cb=20191211041900"
+        "img": "https://i.imgur.com/dX844Sd.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Kishimoto Yumeno",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/25/KishimotoYumeno-DakishimerareteMitai.jpg/revision/latest/scale-to-width-down/300?cb=20191211042031"
+        "img": "https://i.imgur.com/93wopxh.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Asakura Kiki",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/6f/AsakuraKiki-DakishimerareteMitai.jpg/revision/latest/scale-to-width-down/300?cb=20191211042044"
+        "img": "https://i.imgur.com/3zsQKkS.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Ono Mizuho",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/44/OnoMizuho-DakishimerareteMitai.jpg/revision/latest/scale-to-width-down/300?cb=20191211042052"
+        "img": "https://i.imgur.com/EDSyo0j.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Onoda Saori",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/e/e5/OnodaSaori-DakishimerareteMitai.jpg/revision/latest/scale-to-width-down/300?cb=20191211042106"
+        "img": "https://i.imgur.com/L68F0EK.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Akiyama Mao",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/5/51/AkiyamaMao-DakishimerareteMitai.jpg/revision/latest/scale-to-width-down/300?cb=20191211042120"
+        "img": "https://i.imgur.com/8NkkRp2.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
