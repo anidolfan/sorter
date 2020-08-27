@@ -1407,7 +1407,7 @@ dataSet[dataSetVersion].characterData = [
     
     },
     {
-        "name": "Seishun Kozo ga Naiteiru / Yūgure wa Ameagari / Ima Koko Kara[32] (2015)",
+        "name": "Seishun Kozo ga Naiteiru / Yūgure wa Ameagari / Ima Koko Kara (2015)",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/ba/SeishunKozougaNaiteiru-r.jpg/revision/latest/scale-to-width-down/699?cb=20200605084044"
         , opts:{
             subkeyaki: ["mmsingle"]
@@ -1415,7 +1415,7 @@ dataSet[dataSetVersion].characterData = [
     
     },
     {
-        "name": "Oh My Wish! / Sukatto My Heart / Ima Sugu Tobikomu Yūki[34] (2015)",
+        "name": "Oh My Wish! / Sukatto My Heart / Ima Sugu Tobikomu Yūki (2015)",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/5/5b/Ohmywish-rb.jpg/revision/latest?cb=20150727064254"
         , opts:{
             subkeyaki: ["mmsingle"]
@@ -1423,7 +1423,7 @@ dataSet[dataSetVersion].characterData = [
     
     },
     {
-        "name": "Tsumetai Kaze to Kataomoi / Endless Sky / One and Only[36] (2015)",
+        "name": "Tsumetai Kaze to Kataomoi / Endless Sky / One and Only (2015)",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/93/TsumetaiKazetoKataomoi-rb.jpg/revision/latest/scale-to-width-down/700?cb=20151210065029"
         , opts:{
             subkeyaki: ["mmsingle"]
@@ -1431,7 +1431,7 @@ dataSet[dataSetVersion].characterData = [
     
     },
     {
-        "name": "Utakata Saturday Night! / The Vision / Tokyo to Iu Katasumi[38] (2016)",
+        "name": "Utakata Saturday Night! / The Vision / Tokyo to Iu Katasumi (2016)",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d8/UtakataSaturdayNight-r.jpg/revision/latest/scale-to-width-down/699?cb=20160416084942"
         , opts:{
             subkeyaki: ["mmsingle"]
@@ -1439,7 +1439,7 @@ dataSet[dataSetVersion].characterData = [
     
     },
     {
-        "name": "Sexy Cat no Enzetsu / Mukidashi de Mukiatte / Sō ja Nai[39] (2016)",
+        "name": "Sexy Cat no Enzetsu / Mukidashi de Mukiatte / Sō ja Nai (2016)",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/3a/SexyCatnoEnzetsu-r.jpg/revision/latest/scale-to-width-down/700?cb=20200605083504"
         , opts:{
             subkeyaki: ["mmsingle"]
@@ -1447,7 +1447,7 @@ dataSet[dataSetVersion].characterData = [
     
     },
     {
-        "name": "Brand New Morning / Jealousy Jealousy[40] (2017)",
+        "name": "Brand New Morning / Jealousy Jealousy (2017)",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d6/BRANDNEWMORNING-r.jpg/revision/latest/scale-to-width-down/700?cb=20200605082908"
         , opts:{
             subkeyaki: ["mmsingle"]
