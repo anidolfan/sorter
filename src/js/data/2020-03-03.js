@@ -1064,7 +1064,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Do It! Now (2002)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/99/DoitNow-r.jpg/revision/latest/scale-to-width-down/699?cb=20150628075959"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/99/DoitNow-r.jpg/revision/latest/scale-to-width-down/499?cb=20150628075959"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1216,7 +1216,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Onna ni Sachi Are (2007)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/ab/OnnaniSachiAre-r.jpg/revision/latest/scale-to-width-down/700?cb=20150628081726"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/ab/OnnaniSachiAre-r.jpg/revision/latest/scale-to-width-down/500?cb=20150628081726"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1224,7 +1224,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mikan (2007)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/9b/Mikan-r.jpg/revision/latest/scale-to-width-down/700?cb=20091011170036"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/9b/Mikan-r.jpg/revision/latest/scale-to-width-down/500?cb=20091011170036"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1264,7 +1264,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nanchatte Ren'ai (2009)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b1/NanchatteRenai-r.jpg/revision/latest/scale-to-width-down/699?cb=20090928124945"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b1/NanchatteRenai-r.jpg/revision/latest/scale-to-width-down/499?cb=20090928124945"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1280,7 +1280,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Onna ga Medatte Naze Ikenai (2010)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b1/OnnagaMedatteNazeIkenai-r.jpg/revision/latest/scale-to-width-down/700?cb=20200822090621"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b1/OnnagaMedatteNazeIkenai-r.jpg/revision/latest/scale-to-width-down/500?cb=20200822090621"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1296,7 +1296,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Onna to Otoko no Lullaby Game (2010)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/db/OnnatoOtokonoLullabyGame-r.jpg/revision/latest/scale-to-width-down/699?cb=20200822090827"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/db/OnnatoOtokonoLullabyGame-r.jpg/revision/latest/scale-to-width-down/499?cb=20200822090827"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1367,8 +1367,8 @@ dataSet[dataSetVersion].characterData = [
     
     },
     {
-        "name": "Brainstorming / Kimi Sae Ireba Nani mo Iranai (2013)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/06/Brainstorming-rb.jpg/revision/latest/scale-to-width-down/700?cb=20200607093928"
+        "name": "Brainstorming /Kimi Sae Ireba Nani mo Iranai (2013)",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/06/Brainstorming-rb.jpg/revision/latest/scale-to-width-down/500?cb=20200607093928"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1376,7 +1376,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Wagamama Ki no Mama Ai no Joke / Ai no Gundan (2013)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/04/WagamamaKinoMamaAinoJoke-rb.jpg/revision/latest/scale-to-width-down/700?cb=20200607083828"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/04/WagamamaKinoMamaAinoJoke-rb.jpg/revision/latest/scale-to-width-down/500?cb=20200607083828"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1392,7 +1392,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Toki o Koe Sora o Koe / Password is 0 (2014)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/79/TokiwoKoeSorawoKoe-r.jpg/revision/latest/scale-to-width-down/700?cb=20140320145701"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/79/TokiwoKoeSorawoKoe-r.jpg/revision/latest/scale-to-width-down/500?cb=20140320145701"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1408,7 +1408,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Seishun Kozo ga Naiteiru / Yūgure wa Ameagari / Ima Koko Kara (2015)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/ba/SeishunKozougaNaiteiru-r.jpg/revision/latest/scale-to-width-down/699?cb=20200605084044"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/ba/SeishunKozougaNaiteiru-r.jpg/revision/latest/scale-to-width-down/499?cb=20200605084044"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1432,7 +1432,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Utakata Saturday Night! / The Vision / Tokyo to Iu Katasumi (2016)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d8/UtakataSaturdayNight-r.jpg/revision/latest/scale-to-width-down/699?cb=20160416084942"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d8/UtakataSaturdayNight-r.jpg/revision/latest/scale-to-width-down/499?cb=20160416084942"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1440,7 +1440,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sexy Cat no Enzetsu / Mukidashi de Mukiatte / Sō ja Nai (2016)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/3a/SexyCatnoEnzetsu-r.jpg/revision/latest/scale-to-width-down/700?cb=20200605083504"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/3a/SexyCatnoEnzetsu-r.jpg/revision/latest/scale-to-width-down/500?cb=20200605083504"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1448,7 +1448,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Brand New Morning / Jealousy Jealousy (2017)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d6/BRANDNEWMORNING-r.jpg/revision/latest/scale-to-width-down/700?cb=20200605082908"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d6/BRANDNEWMORNING-r.jpg/revision/latest/scale-to-width-down/500?cb=20200605082908"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1456,7 +1456,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Jama Shinaide Here We Go! / Dokyū no Go Sign / Wakaindashi! (2017)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/42/JamaShinaideHereWeGo-r.jpg/revision/latest/scale-to-width-down/700?cb=20180201050356"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/42/JamaShinaideHereWeGo-r.jpg/revision/latest/scale-to-width-down/500?cb=20180201050356"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1464,7 +1464,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Are You Happy? / A Gonna (2018)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/5/5e/AreyouHappy-r.jpg/revision/latest/scale-to-width-down/700?cb=20200604190716"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/5/5e/AreyouHappy-r.jpg/revision/latest/scale-to-width-down/500?cb=20200604190716"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1472,7 +1472,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Furari Ginza / Jiyū na Kuni Dakara (2018)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/4e/Furari_Ginza-r.jpg/revision/latest/scale-to-width-down/699?cb=20200604190520"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/4e/Furari_Ginza-r.jpg/revision/latest/scale-to-width-down/499?cb=20200604190520"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
@@ -1480,7 +1480,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Jinsei Blues / Seishun Night (2019)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/6c/JinseiBlues-r.jpg/revision/latest/scale-to-width-down/699?cb=20190611100427"
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/6c/JinseiBlues-r.jpg/revision/latest/scale-to-width-down/499?cb=20190611100427"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
