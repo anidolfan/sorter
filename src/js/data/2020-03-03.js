@@ -1367,8 +1367,8 @@ dataSet[dataSetVersion].characterData = [
     
     },
     {
-        "name": "Brainstorming /Kimi Sae Ireba Nani mo Iranai (2013)",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/06/Brainstorming-rb.jpg/revision/latest/scale-to-width-down/500?cb=20200607093928"
+        "name": "Brainstorming / Kimi Sae Ireba Nani mo Irana (2013)",
+        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/9f/Brainstorming-r.jpg/revision/latest/scale-to-width-down/350?cb=20200607093810"
         , opts:{
             subkeyaki: ["mmsingle"]
         }
