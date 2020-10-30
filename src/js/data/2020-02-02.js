@@ -2150,6 +2150,51 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["vpbs","mmpb","2020"]
         }
     }
+    ,
+    {
+        "name": "eighteen face (Maeda) (2020)",
+        "img": "https://i.imgur.com/qLCE48s.jpg"
+        , opts:{
+            subkeyaki: ["pbs","2020","bypb"]
+        }
+    }
+    ,
+    {
+        "name": "MIZUH◎ (Ono) (2020)",
+        "img": "https://i.imgur.com/4b1pI8w.jpg"
+        , opts:{
+            subkeyaki: ["pbs","2020","tsubakipb"]
+        }
+    }
+
+    ,
+    {
+        "name": "Am1 (Tanimoto) (2020)",
+        "img": "https://i.imgur.com/bcqPbea.jpg"
+        , opts:{
+            subkeyaki: ["pbs","2020","tsubakipb"]
+        }
+    }
+
+    ,
+    {
+        "name": "First Time (Kitagawa) (2020)",
+        "img": "https://i.imgur.com/i9fF960.jpg"
+        , opts:{
+            subkeyaki: ["pbs","2020","mmpb"]
+        }
+    }
+
+    ,
+    {
+        "name": "Shiori (Nishida) (2020)",
+        "img": "https://i.imgur.com/dMUNe41.jpg"
+        , opts:{
+            subkeyaki: ["pbs","2020","bypb"]
+        }
+    }
+
+
 
 
 ];

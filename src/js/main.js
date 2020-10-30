@@ -664,7 +664,7 @@ function generateImage() {
   const timeFinished = timestamp + timeTaken;
   const date = new Date();
   date.years
-  const filename = `[${date.getFullYear()}.${date.getMonth()+1}.${date.getDate()}.${date.getHours()}_${date.getMinutes()}_${date.getSeconds()}] Sorter.png`;
+  const filename = `[${date.getFullYear()}.${(date.getMonth()+1).toString().padStart(2, "0")}.${date.getDate().toString().padStart(2, "0")}.${date.getHours().toString().padStart(2, "0")}_${date.getMinutes().toString().padStart(2, "0")}_${date.getSeconds().toString().padStart(2, "0")}]_Sorter.png`;
 
   html2canvas(document.querySelector('#new-results')).then(canvas => {
     const dataURL = canvas.toDataURL();
