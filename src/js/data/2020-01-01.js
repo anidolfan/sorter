@@ -5,98 +5,98 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Fukumura Mizuki",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b1/FukumuraKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/300?cb=20191205133834"
+        "img": "https://i.imgur.com/wlqNgNt.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Ikuta Erina",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/6d/IkutaKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/300?cb=20191205135320"
+        "img": "https://i.imgur.com/H3VHZBG.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Ishida Ayumi",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/95/IshidaKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/310?cb=20191205140333"
+        "img": "https://i.imgur.com/3nO8SWC.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Sato Masaki",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/ad/SatoKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/300?cb=20191205141418"
+        "img": "https://i.imgur.com/PP5hsPe.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Oda Sakura",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/33/OdaKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/300?cb=20191205142403"
+        "img": "https://i.imgur.com/DvW5EMA.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Nonaka Miki",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/6c/NonakaKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/300?cb=20191205143335"
+        "img": "https://i.imgur.com/2WFFEQp.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Makino Maria",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/43/MakinoKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/300?cb=20191205144317"
+        "img": "https://i.imgur.com/AZ9H1ek.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Haga Akane",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/ae/HagaKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/300?cb=20191205144342"
+        "img": "https://i.imgur.com/b31qlZH.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Kaga Kaede",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/3c/KagaKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/300?cb=20191205144426"
+        "img": "https://i.imgur.com/P4O0KKL.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Yokoyama Reina",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b9/YokoyamaKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/300?cb=20191205144507"
+        "img": "https://i.imgur.com/PQxNfS9.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Morito Chisaki",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/23/MoritoKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/300?cb=20191205144516"
+        "img": "https://i.imgur.com/cTjcERj.jpg"
         , opts: {
             subkeyaki: ["mm", "cg"]
         }
     },
     {
         "name": "Kitagawa Rio",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/73/KitagawaKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/300?cb=20191205144541"
+        "img": "https://i.imgur.com/xqgfBc5.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Okamura Homare",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/77/OkamuraKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/300?cb=20191205144628"
+        "img": "https://i.imgur.com/xUphYcQ.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Yamazaki Mei",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/5/59/YamazakiKOKORO%26KARADA.jpg/revision/latest/scale-to-width-down/300?cb=20191205144638"
+        "img": "https://i.imgur.com/ST4VvCU.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
