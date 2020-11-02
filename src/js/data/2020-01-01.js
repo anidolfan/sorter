@@ -167,6 +167,27 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["angerme"]
         }
     },
+    {
+        "name": "Tamenaga Shion",
+        "img": "https://i.imgur.com/0gLVVQR.jpg"
+        , opts: {
+            subkeyaki: ["angerme"]
+        }
+    },
+    {
+        "name": "Kawana Rin",
+        "img": "https://i.imgur.com/kB9xVZs.jpg"
+        , opts: {
+            subkeyaki: ["angerme"]
+        }
+    },
+    {
+        "name": "Matsumoto Wakana",
+        "img": "https://i.imgur.com/w8l7sAY.jpg"
+        , opts: {
+            subkeyaki: ["angerme"]
+        }
+    },
     //Juice=Juice
     {
         "name": "Kanazawa Tomoko",
