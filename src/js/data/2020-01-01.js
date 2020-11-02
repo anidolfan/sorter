@@ -1,3 +1,4 @@
+
 dataSetVersion = "2020-01-01";
 dataSet[dataSetVersion] = {};
 
@@ -150,7 +151,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Oota Haruka",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/35/OotaHaruka-Anju27thSingle.jpg/revision/latest/scale-to-width-down/300?cb=20191018142515"
         , opts: {
-            subkeyaki: ["angerme"]
+            subkeyaki: ["SnAog"]
         }
     },
     {
@@ -1136,4 +1137,3 @@ dataSet[dataSetVersion].options = [
     }
 
 ];
-
