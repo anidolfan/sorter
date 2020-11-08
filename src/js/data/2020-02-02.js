@@ -2207,7 +2207,7 @@ dataSet[dataSetVersion].options = [
         checked: true,
         sub: [
          
-            { name: 'Morning Musume 20 Photobooks', key: 'mmpb' },
+            { name: "Morning Musume '20 Photobooks", key: 'mmpb' },
             { name: 'Juice=Juice Photobooks', key: 'juicepb' },
             { name: 'Angerme Photobooks', key: 'angermepb' },
             { name: 'Tsubaki Factory Photobooks', key: 'tsubakipb' },

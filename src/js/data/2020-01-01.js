@@ -1117,7 +1117,7 @@ dataSet[dataSetVersion].options = [
         tooltip: 'Check this to restrict to certain group',
         checked: true,
         sub: [
-            { name: 'Morning Musume 20', key: 'mm' },
+            { name: "Morning Musume '20", key: 'mm' },
             { name: 'Juice=Juice', key: 'jj' },
             { name: 'Angerme', key: 'angerme' },
             { name: 'Tsubaki Factory', key: 'tf' },
@@ -1130,7 +1130,7 @@ dataSet[dataSetVersion].options = [
             { name: 'Ex-Buono!', key: 'buono' },
             { name: 'Melon Kinenbi', key: 'melon' },
             { name: 'Ex-V-u-den', key: 'vuden' },
-            { name: 'Ex-Morning Musume', key: 'mmog' },
+            { name: "Ex-Morning Musume", key: 'mmog' },
             { name: 'Ex-ANGERME and Ex-S/mileage', key: 'SnAog' },
             { name: 'LoVendoЯ', key: 'lovendor' },
         ]
