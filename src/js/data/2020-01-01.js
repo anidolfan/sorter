@@ -192,63 +192,77 @@ dataSet[dataSetVersion].characterData = [
     //Juice=Juice
     {
         "name": "Kanazawa Tomoko",
-        "img": "https://i.imgur.com/1Soh1Rd.jpg"
+        "img": "https://i.imgur.com/BBNW62C.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Takagi Sayuki",
-        "img": "https://i.imgur.com/3DVM8GV.jpg"
+        "img": "https://i.imgur.com/ivqyL53.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Miyamoto Karin",
-        "img": "https://i.imgur.com/dLxPa86.jpg"
+        "img": "https://i.imgur.com/zL5jdaY.jpg"
         , opts: {
-            subkeyaki: ["jj"]
+            subkeyaki: ["ex-jj"]
+        }
+    },
+    {
+        "name": "Miyazaki Yuka",
+        "img": "https://i.imgur.com/YHJtoUw.jpg"
+        , opts: {
+            subkeyaki: ["ex-jj"]
+        }
+    },
+    {
+        "name": "Otsuka Aina",
+        "img": "https://i.imgur.com/XVI6BY1.jpg"
+        , opts: {
+            subkeyaki: ["ex-jj"]
         }
     },
     {
         "name": "Uemura Akari",
-        "img": "https://i.imgur.com/wv8IV7y.jpg"
+        "img": "https://i.imgur.com/A2efyKc.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Inaba Manaka",
-        "img": "https://i.imgur.com/U4zaPPg.jpg"
+        "img": "https://i.imgur.com/JwmZR1Z.jpg"
         , opts: {
             subkeyaki: ["jj", "cg"]
         }
     },
     {
         "name": "Inoue Rei",
-        "img": "https://i.imgur.com/JnXdXGv.jpg"
+        "img": "https://i.imgur.com/t3WRRR5.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "Dambara Ruru",
-        "img": "https://i.imgur.com/vO3mVVZ.jpg"
+        "img": "https://i.imgur.com/uMmrKbS.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Kudo Yume",
-        "img": "https://i.imgur.com/OlRUd3A.jpg"
+        "img": "https://i.imgur.com/PNgj5iM.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Matsunaga Riai",
-        "img": "https://i.imgur.com/LTY5YKX.jpg"
+        "img": "https://i.imgur.com/VBSCLlV.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -608,7 +622,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Yanagawa Nanami",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/13/8f1c814b7e9790219bd2851614be03e8d76b7586.jpg/revision/latest/scale-to-width-down/270?cb=20181231154740"
         , opts: {
-            subkeyaki: ["cg"]
+            subkeyaki: ["cg", "ex-jj"]
         }
     },
     {
@@ -1123,6 +1137,7 @@ dataSet[dataSetVersion].options = [
             { name: 'Tsubaki Factory', key: 'tf' },
             { name: 'BEYOOOOONDS', key: 'by' },
             { name: 'Hello Pro Kenshuusei', key: 'kss' },
+            { name: 'Ex-Juice=Juice', key: 'ex-jj' },
             { name: 'Ex-Kobushi Factory', key: 'kf' },
             { name: 'Ex-Country Girls', key: 'cg' },
             { name: 'Ex-℃-ute', key: 'cute' },
