@@ -137,7 +137,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Funaki Musubu",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/2a/FunakiMusubu-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123146"
         , opts: {
-            subkeyaki: ["angerme", "cg"]
+            subkeyaki: ["SnAog", "cg"]
         }
     },
     {
