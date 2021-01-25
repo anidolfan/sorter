@@ -417,7 +417,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "里吉うたのo",
+        "name": "里吉うたの",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/04/SatoyoshiUtano-BEYOOOOOND1St.jpg/revision/latest/scale-to-width-down/280?cb=20191025170203"
         , opts: {
             subkeyaki: ["by"]
