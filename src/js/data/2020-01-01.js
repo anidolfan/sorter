@@ -519,7 +519,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "豫風瑠乃",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/7/7e/YofuRuno2020Dec.jpg/revision/latest/scale-to-width-down/350?cb=20201202075212"
+        "img": "https://i.imgur.com/tJlNInJ.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -540,7 +540,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "有澤一華",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/9/95/ArisawaIchika2020Dec.jpg/revision/latest?cb=20201202080513"
+        "img": "https://i.imgur.com/UPQBFrP.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
