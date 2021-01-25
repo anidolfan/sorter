@@ -477,7 +477,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "広本瑠璃",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/4/4a/HiromotoRuli2020Dec.jpg/revision/latest/scale-to-width-down/350?cb=20201202072911"
+        "img": "https://i.imgur.com/IpeViM6.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
