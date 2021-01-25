@@ -547,7 +547,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "石山咲良",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2b/IshiyamaSakura2020Dec.jpg/revision/latest?cb=20201202081354"
+        "img": "https://i.imgur.com/7oOYhEw.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
