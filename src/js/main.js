@@ -141,6 +141,10 @@ function init() {
 
 /** Begin sorting. */
 function start() {
+  
+  if(document.getElementsByClassName("changeL")[0]){
+    document.getElementsByClassName("changeL")[0].style.display = "none";
+  }
   /** Copy data into sorting array to filter. */
   characterDataToSort = characterData.slice(0);
 
