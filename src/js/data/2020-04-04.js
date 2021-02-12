@@ -201,7 +201,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Takagi Sayuki",
         "img": "https://i.imgur.com/ivqyL53.jpg"
         , opts: {
-            subkeyaki: ["jj"]
+            subkeyaki: ["ex-jj"]
         }
     },
     {
