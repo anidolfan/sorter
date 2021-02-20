@@ -553,6 +553,28 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 
+    ,
+    {
+        "name": "Ishiguri Kanami",
+        "img": "https://i.imgur.com/aRGSntn.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+    {
+        "name": "Kawano Minori",
+        "img": "https://i.imgur.com/Y9fk1xO.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+    {
+        "name": "Nishimura Karin",
+        "img": "https://i.imgur.com/VOJPJ5Z.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
 
     // Kobushi Factory
     {

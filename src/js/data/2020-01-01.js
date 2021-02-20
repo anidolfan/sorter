@@ -552,6 +552,28 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["kss"]
         }
     },
+    ,
+    {
+        "name": "石栗奏美",
+        "img": "https://i.imgur.com/aRGSntn.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+    {
+        "name": "河野みのり",
+        "img": "https://i.imgur.com/Y9fk1xO.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+    {
+        "name": "西村風凛",
+        "img": "https://i.imgur.com/VOJPJ5Z.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
 
 
     // Kobushi Factory
