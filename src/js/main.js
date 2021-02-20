@@ -668,10 +668,10 @@ function generateImage() {
   const timeFinished = timestamp + timeTaken;
   const date = new Date();
   date.years
-  const filename = `[${date.getFullYear()}.${(date.getMonth()+1).toString().padStart(2, "0")}.${date.getDate().toString().padStart(2, "0")}.${date.getHours().toString().padStart(2, "0")}_${date.getMinutes().toString().padStart(2, "0")}_${date.getSeconds().toString().padStart(2, "0")}]_Sorter.png`;
+  const filename = `[${date.getFullYear()}.${(date.getMonth()+1).toString().padStart(2, "0")}.${date.getDate().toString().padStart(2, "0")}.${date.getHours().toString().padStart(2, "0")}_${date.getMinutes().toString().padStart(2, "0")}_${date.getSeconds().toString().padStart(2, "0")}]_Sorter.jpeg`;
 
   html2canvas(document.querySelector('#new-results')).then(canvas => {
-    const dataURL = canvas.toDataURL();
+    const dataURL = canvas.toDataURL("image/jpeg");
     const imgButton = document.querySelector('.finished.getimg.button');
     const resetButton = document.createElement('a');
 
@@ -866,7 +866,7 @@ function preloadImages() {
     canvas.width = img.naturalWidth;
     canvas.height = img.naturalHeight;
     canvas.getContext('2d').drawImage(img, 0, 0);
-    characterDataToSort[idx].img = canvas.toDataURL();
+    characterDataToSort[idx].img = canvas.toDataURL("image/jpeg");
     progressBar(`Loading Image ${++imagesLoaded}`, Math.floor(imagesLoaded * 100 / totalLength));
   };
 
