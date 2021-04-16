@@ -1054,7 +1054,7 @@ dataSet[dataSetVersion].characterData = [
 
 
     {
-        "name": "尾形春水",
+        "name": "和田彩花",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b9/WadaAyaka-RinnetenshouANGERMEPastPresentFuture.jpg/revision/latest?cb=20190501053031"
         , opts: {
             subkeyaki: ["SnAog"]
