@@ -192,7 +192,7 @@ dataSet[dataSetVersion].characterData = [
     //Juice=Juice
     {
         "name": "金澤朋子",
-        "img": "https://i.imgur.com/BBNW62C.jpg"
+        "img": "https://i.imgur.com/9SreQGU.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -227,42 +227,42 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "植村あかり",
-        "img": "https://i.imgur.com/A2efyKc.jpg"
+        "img": "https://i.imgur.com/cnn5SY0.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "稲場愛香",
-        "img": "https://i.imgur.com/JwmZR1Z.jpg"
+        "img": "https://i.imgur.com/HPp9U8z.jpg"
         , opts: {
             subkeyaki: ["jj", "cg"]
         }
     },
     {
         "name": "井上玲音",
-        "img": "https://i.imgur.com/t3WRRR5.jpg"
+        "img": "https://i.imgur.com/smedCU7.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "段原瑠々",
-        "img": "https://i.imgur.com/uMmrKbS.jpg"
+        "img": "https://i.imgur.com/RBtM83x.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "工藤由愛",
-        "img": "https://i.imgur.com/PNgj5iM.jpg"
+        "img": "https://i.imgur.com/JeI2LlW.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "松永里愛",
-        "img": "https://i.imgur.com/VBSCLlV.jpg"
+        "img": "https://i.imgur.com/SXAqXPm.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
