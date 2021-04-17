@@ -97,7 +97,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "山﨑愛生",
-        "img": "https://i.imgur.com/rqqNOMU.jpg"
+        "img": "https://i.imgur.com/V4Y2PJk.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
