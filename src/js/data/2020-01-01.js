@@ -411,7 +411,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "小林萌花",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/7b/KobayashiHonoka-BEYOOOOOND1St.jpg/revision/latest/scale-to-width-down/280?cb=20191025170124"
+        "img": "https://i.imgur.com/30vSgu5.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
