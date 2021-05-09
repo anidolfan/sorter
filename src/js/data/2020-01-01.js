@@ -418,7 +418,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "里吉うたの",
-        "img": "https://i.imgur.com/30vSgu5.jpg"
+        "img": "https://i.imgur.com/xpjH0nb.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
