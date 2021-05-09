@@ -341,70 +341,70 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "一岡伶奈",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/f/f3/IchiokaReina-BEYOOOOOND1St.jpg/revision/latest/scale-to-width-down/280?cb=20191025165508"
+        "img": "https://i.imgur.com/VQt2NZJ.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "島倉りか",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/30/ShimakuraRika-BEYOOOOOND1St.jpg/revision/latest/scale-to-width-down/280?cb=20191025165517"
+        "img": "https://i.imgur.com/eAck9di.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "西田汐里",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/e/ea/NishidaShiori-BEYOOOOOND1St.jpg/revision/latest/scale-to-width-down/280?cb=20191025165540"
+        "img": "https://i.imgur.com/P5gxs3q.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "江口紗耶",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/68/EguchiSaya-BEYOOOOOND1St.jpg/revision/latest/scale-to-width-down/280?cb=20191025165706"
+        "img": "https://i.imgur.com/M3wCFKd.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "高瀬くるみ",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/f/f3/TakaseKurumi-BEYOOOOOND1St.jpg/revision/latest/scale-to-width-down/280?cb=20191025165725"
+        "img": "https://i.imgur.com/R61bkMx.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "前田こころ",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/5/53/MaedaKokoro-BEYOOOOOND1St.jpg/revision/latest/scale-to-width-down/280?cb=20191025165758"
+        "img": "https://i.imgur.com/QyC922S.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "山﨑夢羽",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/04/YamazakiYuhane-BEYOOOOOND1St.jpg/revision/latest/scale-to-width-down/280?cb=20191025165814"
+        "img": "https://i.imgur.com/4OMvdHK.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "岡村美波",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/5/5f/OkamuraMinami-BEYOOOOOND1St.jpg/revision/latest/scale-to-width-down/280?cb=20191025165904"
+        "img": "https://i.imgur.com/KyZEtHF.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "清野桃々姫",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/ab/KiyonoMomohime-BEYOOOOOND1St.jpg/revision/latest/scale-to-width-down/280?cb=20191025165918"
+        "img": "https://i.imgur.com/MrTDh9L.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "平井美葉",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/8/88/HiraiMiyo-BEYOOOOOND1St.jpg/revision/latest/scale-to-width-down/280?cb=20191025170104"
+        "img": "https://i.imgur.com/YLyBTec.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
@@ -418,7 +418,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "里吉うたの",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/04/SatoyoshiUtano-BEYOOOOOND1St.jpg/revision/latest/scale-to-width-down/280?cb=20191025170203"
+        "img": "https://i.imgur.com/30vSgu5.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
