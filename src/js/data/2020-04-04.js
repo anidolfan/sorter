@@ -107,28 +107,28 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Takeuchi Akari",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b6/TakeuchiAkari-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123059"
+        "img": "https://i.imgur.com/7No77GR.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Sasaki Rikako",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/0d/SasakiRikako-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123115"
+        "img": "https://i.imgur.com/MsNZ8Ag.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kamikokuryo Moe",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/8/85/KamikokuryoMoe-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123123"
+        "img": "https://i.imgur.com/r4IYt1p.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kasahara Momona",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/1f/KasaharaMomona-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123130"
+        "img": "https://i.imgur.com/kyqxxLw.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -142,7 +142,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kawamura Ayano",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/bd/KawamuraAyano-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123107"
+        "img": "https://i.imgur.com/nzYTylo.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -156,35 +156,35 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ise Layla",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/a2/IseLayla-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123210"
+        "img": "https://i.imgur.com/cyIMXKe.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Hashisako Rin",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/5/55/HashisakoRin-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123230"
+        "img": "https://i.imgur.com/4JzqvRE.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Tamenaga Shion",
-        "img": "https://i.imgur.com/0gLVVQR.jpg"
+        "img": "https://i.imgur.com/4rGKBwU.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kawana Rin",
-        "img": "https://i.imgur.com/kB9xVZs.jpg"
+        "img": "https://i.imgur.com/PUYfGll.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Matsumoto Wakana",
-        "img": "https://i.imgur.com/w8l7sAY.jpg"
+        "img": "https://i.imgur.com/3h6IdIu.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
