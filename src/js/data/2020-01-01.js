@@ -428,126 +428,119 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "米村姫良々",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/48/YonemuraKirara2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165121"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-    {
-        "name": "山田苺",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/27/YamadaIchigo2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165139"
+        "img": "https://i.imgur.com/DwqeeXA.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "中山夏月姫",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/36/NakayamaNatsume2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165206"
+        "img": "https://i.imgur.com/gvpLGbI.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "窪田七海",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/38/KubotaNanami2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165253"
+        "img": "https://i.imgur.com/YIT2U5z.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "松原ユリヤ",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/15/MatsubaraYulia2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165312"
+        "img": "https://i.imgur.com/GRXXkyS.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "斉藤円香",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/c/cf/SaitoMadoka2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165339"
+        "img": "https://i.imgur.com/rf0adCZ.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
-        "name": "小野田華凛",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d5/OnodaKarin2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165400"
+        "name": "小野田華凜",
+        "img": "https://i.imgur.com/R6HYHhe.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "広本瑠璃",
-        "img": "https://i.imgur.com/IpeViM6.jpg"
+        "img": "https://i.imgur.com/VtFjnmC.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "橋田歩果",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/98/HashidaHonoka2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165706"
+        "img": "https://i.imgur.com/48FD515.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "西﨑美空",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/5/57/NishizakiMiku2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165811"
+        "img": "https://i.imgur.com/HoFb7mx.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "平山遊季",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/49/HirayamaYuki2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313172150"
+        "img": "https://i.imgur.com/WdubJIX.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "北原もも",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/4b/KitaharaMomo2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313172243"
+        "img": "https://i.imgur.com/KW92qrr.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "江端妃咲",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/60/EbataKisaki2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313172258"
+        "img": "https://i.imgur.com/5y5ZV4t.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "豫風瑠乃",
-        "img": "https://i.imgur.com/tJlNInJ.jpg"
+        "img": "https://i.imgur.com/CSnsBbm.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "村越彩菜",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/2e/MurakoshiAyana2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313172612"
+        "img": "https://i.imgur.com/JwQCYKQ.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "植村葉純",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d2/UemuraHasumi2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313172631"
+        "img": "https://i.imgur.com/3qi2OTC.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "有澤一華",
-        "img": "https://i.imgur.com/UPQBFrP.jpg"
+        "img": "https://i.imgur.com/fdxcpDJ.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "石山咲良",
-        "img": "https://i.imgur.com/7oOYhEw.jpg"
+        "img": "https://i.imgur.com/O7nYYjI.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -555,21 +548,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "石栗奏美",
-        "img": "https://i.imgur.com/aRGSntn.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-    {
-        "name": "河野みのり",
-        "img": "https://i.imgur.com/Y9fk1xO.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-    {
-        "name": "西村風凛",
-        "img": "https://i.imgur.com/VOJPJ5Z.jpg"
+        "img": "https://i.imgur.com/YAPe04i.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }

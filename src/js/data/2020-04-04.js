@@ -434,13 +434,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "Yamada Ichigo",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/27/YamadaIchigo2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165139"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-    {
         "name": "Nakayama Natsume",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/36/NakayamaNatsume2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165206"
         , opts: {
@@ -557,20 +550,6 @@ dataSet[dataSetVersion].characterData = [
     {
         "name": "Ishiguri Kanami",
         "img": "https://i.imgur.com/aRGSntn.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-    {
-        "name": "Kawano Minori",
-        "img": "https://i.imgur.com/Y9fk1xO.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-    {
-        "name": "Nishimura Karin",
-        "img": "https://i.imgur.com/VOJPJ5Z.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
