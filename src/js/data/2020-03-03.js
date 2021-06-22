@@ -641,7 +641,688 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mmeras"]
         }
 
+    },
+
+    {
+        "name": "Ai no Tane (1997)",
+        "img": "https://i.imgur.com/7yJ5uOK.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Morning Coffee (1998)",
+        "img": "https://i.imgur.com/u2WqBu0.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Summer Night Town (1998)",
+        "img": "https://i.imgur.com/xJZaWs2.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Daite HOLD ON ME! (1998)",
+        "img": "https://i.imgur.com/ZFfh9yU.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Memory Seishun no Hikari (1999)",
+        "img": "https://i.imgur.com/AiikvLJ.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Manatsu no Kousen (1999)",
+        "img": "https://i.imgur.com/BHNYcyg.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Furusato (1999)",
+        "img": "https://i.imgur.com/iQi3i7B.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "LOVE Machine (1999)",
+        "img": "https://i.imgur.com/9aD62zw.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Koi no Dance Site (2000)",
+        "img": "https://i.imgur.com/RnKhpBZ.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Happy Summer Wedding (2000)",
+        "img": "https://i.imgur.com/RlKk4xx.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "I WISH (2000)",
+        "img": "https://i.imgur.com/XV0nqIk.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Ren'ai Revolution 21 (2000)",
+        "img": "https://i.imgur.com/YsFavON.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "The☆Peace! (2001)",
+        "img": "https://i.imgur.com/vpJr3gk.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Mr.Moonlight ~Ai no Big Band~ (2001)",
+        "img": "https://i.imgur.com/LsL0xuH.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Souda! We're ALIVE (2001)",
+        "img": "https://i.imgur.com/SJME9HJ.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Do it! Now (2002)",
+        "img": "https://i.imgur.com/u0OnaXk.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Koko ni Iruzee! (2002)",
+        "img": "https://i.imgur.com/2Qdazdz.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Morning Musume no Hyokkori Hyoutanjima (2003)",
+        "img": "https://i.imgur.com/MGZuFQm.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "AS FOR ONE DAY (2003)",
+        "img": "https://i.imgur.com/er9thVw.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Shabondama (2003)",
+        "img": "https://i.imgur.com/YC8z4zF.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Go Girl ~Koi no Victory~ (2003)",
+        "img": "https://i.imgur.com/4703Vv0.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Ai Araba IT'S ALL RIGHT (2004)",
+        "img": "https://i.imgur.com/fgqw7aX.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Roman ~MY DEAR BOY~ (2004)",
+        "img": "https://i.imgur.com/AX4CxAY.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Joshi Kashimashi Monogatari (2004)",
+        "img": "https://i.imgur.com/FAdOXFZ.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Namida ga Tomaranai Houkago (2004)",
+        "img": "https://i.imgur.com/5PWtyBl.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "THE Manpower!! (2005)",
+        "img": "https://i.imgur.com/SP5oYcy.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Osaka Koi no Uta (2005)",
+        "img": "https://i.imgur.com/FsG2mY4.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Iroppoi Jirettai (2005)",
+        "img": "https://i.imgur.com/fPXEJhO.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Chokkan 2 ~Nogashita Sakana wa Ookiizo!~ (2005)",
+        "img": "https://i.imgur.com/Ss4DrC3.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "SEXY BOY ~Soyokaze ni Yorisotte~ (2006)",
+        "img": "https://i.imgur.com/GnfSqnH.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Ambitious! Yashinteki de Ii jan (2006)",
+        "img": "https://i.imgur.com/WfNmRxE.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Aruiteru (2006)",
+        "img": "https://i.imgur.com/a2cEhGH.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Egao YES Nude (2007)",
+        "img": "https://i.imgur.com/7bsuzr7.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Kanashimi Twilight (2007)",
+        "img": "https://i.imgur.com/KZSYxtq.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Onna ni Sachi Are (2007)",
+        "img": "https://i.imgur.com/zpFoS1u.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Mikan (2007)",
+        "img": "https://i.imgur.com/tr3rpnM.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Resonant Blue (2008)",
+        "img": "https://i.imgur.com/UguQ6mF.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Pepper Keibu (2008)",
+        "img": "https://i.imgur.com/4I7mhen.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Naichau Kamo (2009)",
+        "img": "https://i.imgur.com/5Ry9hOv.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Shouganai Yume Oibito (2009)",
+        "img": "https://i.imgur.com/cScebh2.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Nanchatte Ren'ai (2009)",
+        "img": "https://i.imgur.com/j8NUSnH.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Kimagure Princess (2009)",
+        "img": "https://i.imgur.com/dCLVxaf.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Onna ga Medatte Naze Ikenai (2010)",
+        "img": "https://i.imgur.com/ljXQVxv.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Seishun Collection (2010)",
+        "img": "https://i.imgur.com/eR1Rx3P.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Onna to Otoko no Lullaby Game (2010)",
+        "img": "https://i.imgur.com/bce8t5f.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Maji Desu ka Ska! (2011)",
+        "img": "https://i.imgur.com/lTATTZG.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Only you (2011)",
+        "img": "https://i.imgur.com/RXx9png.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Kono Chikyuu no Heiwa wo Honki de Negatterun da yo! (2011)",
+        "img": "https://i.imgur.com/wf8EdDk.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Pyocopyoco Ultra (2012)",
+        "img": "https://i.imgur.com/x78XTbO.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Ren'ai Hunter (2012)",
+        "img": "https://i.imgur.com/wa8gofK.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "One・Two・Three (2012)",
+        "img": "https://i.imgur.com/rHAQqDr.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "The Matenrou Show (2012)",
+        "img": "https://i.imgur.com/DDfMXQK.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Wakuteka Take a chance (2012)",
+        "img": "https://i.imgur.com/B6ityi4.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Help me!! (2013)",
+        "img": "https://i.imgur.com/qwHGQSV.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Brainstorming (2013)",
+        "img": "https://i.imgur.com/dwUXuZg.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Kimi Sae Ireba Nani mo Iranai (2013)",
+        "img": "https://i.imgur.com/6XkGCF7.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Wagamama Ki no Mama Ai no Joke (2013)",
+        "img": "https://i.imgur.com/Q2PHE9m.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Ai no Gundan (2013)",
+        "img": "https://i.imgur.com/6UG0yvs.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Egao no Kimi wa Taiyou sa (2014)",
+        "img": "https://i.imgur.com/m2pYGnH.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Kimi no Kawari wa Iyashinai (2014)",
+        "img": "https://i.imgur.com/9yEKSMr.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "What is LOVE? (2014)",
+        "img": "https://i.imgur.com/qxBOk7c.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Toki wo Koe Sora wo Koe (2014)",
+        "img": "https://i.imgur.com/QRaumQp.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Password is 0 (2014)",
+        "img": "https://i.imgur.com/pVsAcR1.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "TIKI BUN (2014)",
+        "img": "https://i.imgur.com/mBT5xPL.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Shabadaba Doo~ (2014)",
+        "img": "https://i.imgur.com/WYihowr.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Mikaeri Bijin (2014)",
+        "img": "https://i.imgur.com/XocsXfL.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Seishun Kozou wa Naiteiru (2015)",
+        "img": "https://i.imgur.com/XiJK9Rq.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Yuugure wa Ameagari (2015)",
+        "img": "https://i.imgur.com/iKobzrH.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Ima Koko Kara (2015)",
+        "img": "https://i.imgur.com/JGLv3bg.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Oh my wish! (2015)",
+        "img": "https://i.imgur.com/45GYyNN.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Sukatto My Heart (2015)",
+        "img": "https://i.imgur.com/Gm87JIT.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Imasugu Tobikomu Yuuki (2015)",
+        "img": "https://i.imgur.com/uWzhQK5.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Tsumetai Kaze to Kataomoi (2015)",
+        "img": "https://i.imgur.com/UNJYf8k.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "ENDLESS SKY (2015)",
+        "img": "https://i.imgur.com/DS2OYUY.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "One and Only (2015)",
+        "img": "https://i.imgur.com/2QmQeW0.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Utakata Saturday Night! (2016)",
+        "img": "https://i.imgur.com/ICqBtob.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "The Vision (2016)",
+        "img": "https://i.imgur.com/Z16M3IL.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Tokyo to Iu Katasumi (2016)",
+        "img": "https://i.imgur.com/0trJ3QL.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Sexy Cat no Enzetsu (2016)",
+        "img": "https://i.imgur.com/lmnc6MV.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Mukidashi de Mukiatte (2016)",
+        "img": "https://i.imgur.com/nBwtY6X.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Sou ja nai (2016)",
+        "img": "https://i.imgur.com/wjAQvqX.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "BRAND NEW MORNING (2017)",
+        "img": "https://i.imgur.com/OiRV4lM.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Jealousy Jealousy (2017)",
+        "img": "https://i.imgur.com/rlELrIV.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Jama Shinai de Here We Go! (2017)",
+        "img": "https://i.imgur.com/snOjbft.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Dokyuu no Go Sign (2017)",
+        "img": "https://i.imgur.com/CRPFLzh.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Wakain da shi! (2017)",
+        "img": "https://i.imgur.com/GyI78Am.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Are you Happy? (2018)",
+        "img": "https://i.imgur.com/9dkTemd.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "A gonna (2018)",
+        "img": "https://i.imgur.com/R5dfxW2.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Furari Ginza (2018)",
+        "img": "https://i.imgur.com/1iTo09W.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Jiyuu na Kuni Dakara (2018)",
+        "img": "https://i.imgur.com/uhQDIEy.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Jinsei Blues (2019)",
+        "img": "https://i.imgur.com/dePqXMK.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Seishun Night (2019)",
+        "img": "https://i.imgur.com/rcmi3BM.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "KOKORO&KARADA (2020)",
+        "img": "https://i.imgur.com/gES756W.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "LOVEpedia (2020)",
+        "img": "https://i.imgur.com/nsgk1iL.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Ningen Kankei No way way (2020)",
+        "img": "https://i.imgur.com/Zi5pOmj.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Junjou Evidence (2020)",
+        "img": "https://i.imgur.com/ps1atxp.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+    {
+        "name": "Gyuusaretai Dake na no ni (2020)",
+        "img": "https://i.imgur.com/WRos94X.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
     }
+
 
 ];
 
@@ -655,6 +1336,7 @@ dataSet[dataSetVersion].options = [
             { name: 'Current Groups Sorter ', key: 'cgropus' },
             { name: 'Morning Musume Eras', key: 'mmeras' },
             { name: 'Morning Musume Singles', key: 'mmsingle' },
+            { name: 'Morning Musume A Side List', key: 'aSideList' },
         ]
     }
 
