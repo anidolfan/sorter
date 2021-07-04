@@ -1,58 +1,62 @@
 /** @type {CharData} */
-let characterData       = [];   // Initial character data set used.
+let characterData = [];   // Initial character data set used.
 /** @type {CharData} */
 let characterDataToSort = [];   // Character data set after filtering.
 /** @type {Options} */
-let options             = [];   // Initial option set used.
+let options = [];   // Initial option set used.
 
-let currentVersion      = '';   // Which version of characterData and options are used.
+let currentVersion = '';   // Which version of characterData and options are used.
 
 /** @type {(boolean|boolean[])[]} */
-let optTaken  = [];             // Records which options are set.
+let optTaken = [];             // Records which options are set.
 
 /** Save Data. Concatenated into array, joined into string (delimited by '|') and compressed with lz-string. */
 let timestamp = 0;        // savedata[0]      (Unix time when sorter was started, used as initial PRNG seed and in dataset selection)
 let timeTaken = 0;        // savedata[1]      (Number of ms elapsed when sorter ends, used as end-of-sort flag and in filename generation)
-let choices   = '';       // savedata[2]      (String of '0', '1' and '2' that records what sorter choices are made)
-let optStr    = '';       // savedata[3]      (String of '0' and '1' that denotes top-level option selection)
+let choices = '';       // savedata[2]      (String of '0', '1' and '2' that records what sorter choices are made)
+let optStr = '';       // savedata[3]      (String of '0' and '1' that denotes top-level option selection)
 let suboptStr = '';       // savedata[4...n]  (String of '0' and '1' that denotes nested option selection, separated by '|')
 let timeError = false;    // Shifts entire savedata array to the right by 1 and adds an empty element at savedata[0] if true.
 
 /** Intermediate sorter data. */
 let sortedIndexList = [];
-let recordDataList  = [];
+let recordDataList = [];
 let parentIndexList = [];
-let tiedDataList    = [];
+let tiedDataList = [];
 
-let leftIndex       = 0;
-let leftInnerIndex  = 0;
-let rightIndex      = 0;
+let leftIndex = 0;
+let leftInnerIndex = 0;
+let rightIndex = 0;
 let rightInnerIndex = 0;
-let battleNo        = 1;
-let sortedNo        = 0;
-let pointer         = 0;
+let battleNo = 1;
+let sortedNo = 0;
+let pointer = 0;
 
 /** A copy of intermediate sorter data is recorded for undo() purposes. */
 let sortedIndexListPrev = [];
-let recordDataListPrev  = [];
+let recordDataListPrev = [];
 let parentIndexListPrev = [];
-let tiedDataListPrev    = [];
+let tiedDataListPrev = [];
 
-let leftIndexPrev       = 0;
-let leftInnerIndexPrev  = 0;
-let rightIndexPrev      = 0;
+let leftIndexPrev = 0;
+let leftInnerIndexPrev = 0;
+let rightIndexPrev = 0;
 let rightInnerIndexPrev = 0;
-let battleNoPrev        = 1;
-let sortedNoPrev        = 0;
-let pointerPrev         = 0;
+let battleNoPrev = 1;
+let sortedNoPrev = 0;
+let pointerPrev = 0;
 
 /** Miscellaneous sorter data that doesn't need to be saved for undo(). */
 let finalCharacters = [];
-let loading         = false;
-let totalBattles    = 0;
-let sorterURL       = window.location.host + window.location.pathname;
-let storedSaveType  = localStorage.getItem(`${sorterURL}_saveType`);
+let loading = false;
+let totalBattles = 0;
+let sorterURL = window.location.host + window.location.pathname;
+let storedSaveType = localStorage.getItem(`${sorterURL}_saveType`);
 
+
+
+//@me
+let titleForTweet = "";
 
 /** Initialize script. */
 function init() {
@@ -71,6 +75,7 @@ function init() {
   document.querySelector('.finished.save.button').addEventListener('click', () => saveProgress('Last Result'));
   document.querySelector('.finished.getimg.button').addEventListener('click', generateImage);
   document.querySelector('.finished.list.button').addEventListener('click', generateTextList);
+  document.querySelector('.finished.tweet.button').addEventListener('click', tweet);
 
   document.querySelector('.clearsave').addEventListener('click', clearProgress);
   document.querySelector('#new-results').style.display = 'none';
@@ -79,27 +84,27 @@ function init() {
   document.addEventListener('keypress', (ev) => {
     /** If sorting is in progress. */
     if (timestamp && !timeTaken && !loading && choices.length === battleNo - 1) {
-      switch(ev.key) {
-        case 's': case '3':                   saveProgress('Progress'); break;
-        case 'b': case 'ArrowLeft':           pick('left'); break;
-        case 'm': case 'ArrowRight':          pick('right'); break;
-        case 'n': case '1': case 'ArrowUp':   pick('tie'); break;
+      switch (ev.key) {
+        case 's': case '3': saveProgress('Progress'); break;
+        case 'b': case 'ArrowLeft': pick('left'); break;
+        case 'm': case 'ArrowRight': pick('right'); break;
+        case 'n': case '1': case 'ArrowUp': pick('tie'); break;
         case 'j': case '2': case 'ArrowDown': undo(); break;
         default: break;
       }
     }
     /** If sorting has ended. */
     else if (timeTaken && choices.length === battleNo - 1) {
-      switch(ev.key) {
+      switch (ev.key) {
         case 'k': case '1': saveProgress('Last Result'); break;
         case 'j': case '2': generateImage(); break;
         case 's': case '3': generateTextList(); break;
         default: break;
       }
     } else { // If sorting hasn't started yet.
-      switch(ev.key) {
+      switch (ev.key) {
         case '1': case 's': case 'Enter': start(); break;
-        case '2': case 'l':               loadProgress(); break;
+        case '2': case 'l': loadProgress(); break;
         default: break;
       }
     }
@@ -114,10 +119,10 @@ function init() {
     select.value = i;
     select.text = i;
     //Select default value @me
-     if (i === 50) { select.selected = 'selected'; }
+    if (i === 50) { select.selected = 'selected'; }
     document.querySelector('.image.selector > select').insertAdjacentElement('beforeend', select);
   }
-  
+
 
   document.querySelector('.image.selector > select').addEventListener('input', (e) => {
     const imageNum = e.target.options[e.target.selectedIndex].value;
@@ -141,8 +146,8 @@ function init() {
 
 /** Begin sorting. */
 function start() {
-  
-  if(document.getElementsByClassName("changeL")[0]){
+
+  if (document.getElementsByClassName("changeL")[0]) {
     document.getElementsByClassName("changeL")[0].style.display = "none";
   }
   /** Copy data into sorting array to filter. */
@@ -164,8 +169,9 @@ function start() {
     } else { optTaken.push(document.getElementById(`cb-${opt.key}`).checked); }
   });
 
+
   /** Convert boolean array form to string form. */
-  optStr    = '';
+  optStr = '';
   suboptStr = '';
 
   optStr = optTaken
@@ -207,6 +213,17 @@ function start() {
     return;
   }
 
+
+  //console.log("to sort", options[0]);
+  let optIndex = optTaken[0].indexOf(true);
+  ///console.log(optTaken[0]);
+
+  if (optTaken[0].slice(optIndex + 1, optTaken[0].length - 1).indexOf(true) === -1) {
+    ///console.log("aaaaaaa", optIndex);
+    titleForTweet = options[0].sub[optIndex].name;
+  }
+  //console.log("index", titleForTweet);
+
   /** Shuffle character array with timestamp seed. */
   timestamp = timestamp || new Date().getTime();
   if (new Date(timestamp) < new Date(currentVersion)) { timeError = true; }
@@ -214,7 +231,7 @@ function start() {
 
   characterDataToSort = characterDataToSort
     .map(a => [Math.random(), a])
-    .sort((a,b) => a[0] - b[0])
+    .sort((a, b) => a[0] - b[0])
     .map(a => a[1]);
 
   /**
@@ -223,8 +240,8 @@ function start() {
    * the mergesort process.
    */
 
-  recordDataList  = characterDataToSort.map(() => 0);
-  tiedDataList    = characterDataToSort.map(() => -1);
+  recordDataList = characterDataToSort.map(() => 0);
+  tiedDataList = characterDataToSort.map(() => -1);
 
   /**
    * Put a list of indexes that we'll be sorting into sortedIndexList. These will refer back
@@ -241,7 +258,7 @@ function start() {
   parentIndexList[0] = -1;
 
   let midpoint = 0;   // Indicates where to split the array.
-  let marker   = 1;   // Indicates where to place our newly split array.
+  let marker = 1;   // Indicates where to place our newly split array.
 
   for (let i = 0; i < sortedIndexList.length; i++) {
     if (sortedIndexList[i].length > 1) {
@@ -260,10 +277,10 @@ function start() {
     }
   }
 
-  leftIndex  = sortedIndexList.length - 2;    // Start with the second last value and...
+  leftIndex = sortedIndexList.length - 2;    // Start with the second last value and...
   rightIndex = sortedIndexList.length - 1;    // the last value in the sorted list and work our way down to index 0.
 
-  leftInnerIndex  = 0;                        // Inner indexes, because we'll be comparing the left array
+  leftInnerIndex = 0;                        // Inner indexes, because we'll be comparing the left array
   rightInnerIndex = 0;                        // to the right array, in order to merge them into one sorted array.
 
   /** Disable all checkboxes and hide/show appropriate parts while we preload the images. */
@@ -284,11 +301,11 @@ function start() {
 
 /** Displays the current state of the sorter. */
 function display() {
-  const percent         = Math.floor(sortedNo * 100 / totalBattles);
-  const leftCharIndex   = sortedIndexList[leftIndex][leftInnerIndex];
-  const rightCharIndex  = sortedIndexList[rightIndex][rightInnerIndex];
-  const leftChar        = characterDataToSort[leftCharIndex];
-  const rightChar       = characterDataToSort[rightCharIndex];
+  const percent = Math.floor(sortedNo * 100 / totalBattles);
+  const leftCharIndex = sortedIndexList[leftIndex][leftInnerIndex];
+  const rightCharIndex = sortedIndexList[rightIndex][rightInnerIndex];
+  const leftChar = characterDataToSort[leftCharIndex];
+  const rightChar = characterDataToSort[rightCharIndex];
 
   const charNameDisp = name => {
     const charName = reduceTextWidth(name, 'Arial 12.8px', 220);
@@ -327,17 +344,17 @@ function pick(sortType) {
   else if (!timestamp) { return start(); }
 
   sortedIndexListPrev = sortedIndexList.slice(0);
-  recordDataListPrev  = recordDataList.slice(0);
+  recordDataListPrev = recordDataList.slice(0);
   parentIndexListPrev = parentIndexList.slice(0);
-  tiedDataListPrev    = tiedDataList.slice(0);
+  tiedDataListPrev = tiedDataList.slice(0);
 
-  leftIndexPrev       = leftIndex;
-  leftInnerIndexPrev  = leftInnerIndex;
-  rightIndexPrev      = rightIndex;
+  leftIndexPrev = leftIndex;
+  leftInnerIndexPrev = leftInnerIndex;
+  rightIndexPrev = rightIndex;
   rightInnerIndexPrev = rightInnerIndex;
-  battleNoPrev        = battleNo;
-  sortedNoPrev        = sortedNo;
-  pointerPrev         = pointer;
+  battleNoPrev = battleNo;
+  sortedNoPrev = sortedNo;
+  pointerPrev = pointer;
 
   /**
    * For picking 'left' or 'right':
@@ -358,19 +375,19 @@ function pick(sortType) {
     case 'right': {
       if (choices.length === battleNo - 1) { choices += '1'; }
       recordData('right');
-      while (tiedDataList[recordDataList [pointer - 1]] != -1) {
+      while (tiedDataList[recordDataList[pointer - 1]] != -1) {
         recordData('right');
       }
       break;
     }
 
-  /**
-   * For picking 'tie' (i.e. heretics):
-   *
-   * Proceed as if we picked the 'left' character. Then, we record the right character's
-   * index value into the list of ties (at the left character's index) and then proceed
-   * as if we picked the 'right' character.
-   */
+    /**
+     * For picking 'tie' (i.e. heretics):
+     *
+     * Proceed as if we picked the 'left' character. Then, we record the right character's
+     * index value into the list of ties (at the left character's index) and then proceed
+     * as if we picked the 'right' character.
+     */
     case 'tie': {
       if (choices.length === battleNo - 1) { choices += '2'; }
       recordData('left');
@@ -379,7 +396,7 @@ function pick(sortType) {
       }
       tiedDataList[recordDataList[pointer - 1]] = sortedIndexList[rightIndex][rightInnerIndex];
       recordData('right');
-      while (tiedDataList[recordDataList [pointer - 1]] != -1) {
+      while (tiedDataList[recordDataList[pointer - 1]] != -1) {
         recordData('right');
       }
       break;
@@ -539,7 +556,7 @@ function progressBar(indicator, percentage) {
  */
 //Number of images to display. Defaults to 50. @me
 function result(imageNum = 50) {
-    document.querySelector('#new-results').style.display = 'block';
+  document.querySelector('#new-results').style.display = 'block';
   document.querySelectorAll('.finished.button').forEach(el => el.style.display = 'block');
   document.querySelector('.image.selector').style.display = 'block';
   document.querySelector('.time.taken').style.display = 'block';
@@ -547,8 +564,8 @@ function result(imageNum = 50) {
 
   document.querySelectorAll('.sorting.button').forEach(el => el.style.display = 'none');
   document.querySelectorAll('.sort.text').forEach(el => el.style.display = 'none');
-    document.querySelector('.progress-section').style.display = 'none';
-    document.querySelector('.sorter').style.display = 'none';
+  document.querySelector('.progress-section').style.display = 'none';
+  document.querySelector('.sorter').style.display = 'none';
   document.querySelector('.options').style.display = 'none';
   // document.querySelector('.info').style.display = 'none';
 
@@ -566,13 +583,13 @@ function result(imageNum = 50) {
     return `<div class="result"><div class="left">${num}</div><div class="right"><span title="${charTooltip}">${charName}</span></div></div>`;
   }
 
-  let rankNum       = 1;
-  let tiedRankNum   = 1;
-  let imageDisplay  = imageNum;
+  let rankNum = 1;
+  let tiedRankNum = 1;
+  let imageDisplay = imageNum;
 
   const finalSortedIndexes = sortedIndexList[0].slice(0);
   const resultBigTable = document.querySelector('.results');
-    const resultTable = document.querySelector('.results-table');
+  const resultTable = document.querySelector('.results-table');
   const timeElem = document.querySelector('.time.taken');
 
   resultTable.innerHTML = '';
@@ -583,7 +600,7 @@ function result(imageNum = 50) {
     const characterIndex = finalSortedIndexes[idx];
     const character = characterDataToSort[characterIndex];
     if (imageDisplay-- > 0) {
-        resultBigTable.insertAdjacentHTML('beforeend', imgRes(character, rankNum));
+      resultBigTable.insertAdjacentHTML('beforeend', imgRes(character, rankNum));
     } else {
       resultTable.insertAdjacentHTML('beforeend', res(character, rankNum));
     }
@@ -607,17 +624,17 @@ function undo() {
   choices = battleNo === battleNoPrev ? choices : choices.slice(0, -1);
 
   sortedIndexList = sortedIndexListPrev.slice(0);
-  recordDataList  = recordDataListPrev.slice(0);
+  recordDataList = recordDataListPrev.slice(0);
   parentIndexList = parentIndexListPrev.slice(0);
-  tiedDataList    = tiedDataListPrev.slice(0);
+  tiedDataList = tiedDataListPrev.slice(0);
 
-  leftIndex       = leftIndexPrev;
-  leftInnerIndex  = leftInnerIndexPrev;
-  rightIndex      = rightIndexPrev;
+  leftIndex = leftIndexPrev;
+  leftInnerIndex = leftInnerIndexPrev;
+  rightIndex = rightIndexPrev;
   rightInnerIndex = rightInnerIndexPrev;
-  battleNo        = battleNoPrev;
-  sortedNo        = sortedNoPrev;
-  pointer         = pointerPrev;
+  battleNo = battleNoPrev;
+  sortedNo = sortedNoPrev;
+  pointer = pointerPrev;
 
   display();
 }
@@ -668,7 +685,7 @@ function generateImage() {
   const timeFinished = timestamp + timeTaken;
   const date = new Date();
   date.years
-  const filename = `[${date.getFullYear()}.${(date.getMonth()+1).toString().padStart(2, "0")}.${date.getDate().toString().padStart(2, "0")}.${date.getHours().toString().padStart(2, "0")}_${date.getMinutes().toString().padStart(2, "0")}_${date.getSeconds().toString().padStart(2, "0")}]_Sorter.jpeg`;
+  const filename = `[${date.getFullYear()}.${(date.getMonth() + 1).toString().padStart(2, "0")}.${date.getDate().toString().padStart(2, "0")}.${date.getHours().toString().padStart(2, "0")}_${date.getMinutes().toString().padStart(2, "0")}_${date.getSeconds().toString().padStart(2, "0")}]_Sorter.jpeg`;
 
   html2canvas(document.querySelector('#new-results')).then(canvas => {
     const dataURL = canvas.toDataURL("image/jpeg");
@@ -698,8 +715,26 @@ function generateTextList() {
   oWindow.document.write(data);
 }
 
+//@me
+function tweet() {
+  let data = finalCharacters.slice(0, 5);
+  data = data.reduce((str, char) => {
+    str += `${char.rank}. ${char.name}\n`;
+    return str;
+  }, '');
+  if (titleForTweet !== "") {
+    data = titleForTweet + "\n" + data;
+  }
+
+  data += window.location.href;
+  window.open(`https://twitter.com/intent/tweet?text=${encodeURI(data)}
+  `, "_blank");
+
+}
+
+
 function generateSavedata() {
-  const saveData = `${timeError?'|':''}${timestamp}|${timeTaken}|${choices}|${optStr}${suboptStr}`;
+  const saveData = `${timeError ? '|' : ''}${timestamp}|${timeTaken}|${choices}|${optStr}${suboptStr}`;
   return LZString.compressToEncodedURIComponent(saveData);
 }
 
@@ -708,7 +743,7 @@ function setLatestDataset() {
   /** Set some defaults. */
   timestamp = 0;
   timeTaken = 0;
-  choices   = '';
+  choices = '';
 
   const latestDateIndex = Object.keys(dataSet)
     .map(date => new Date(date))
@@ -728,10 +763,10 @@ function populateOptions() {
   const optList = document.querySelector('.options');
   //@me
   const optInsert = (name, id, tooltip, checked = false, disabled = false) => {
-    return `<div><label title="${tooltip?tooltip:name}"><input id="cb-${id}" type="checkbox" ${checked?'checked':''} ${disabled?'disabled':''}> ${name}</label></div>`;
+    return `<div><label title="${tooltip ? tooltip : name}"><input id="cb-${id}" type="checkbox" ${checked ? 'checked' : ''} ${disabled ? 'disabled' : ''}> ${name}</label></div>`;
   };
   const optInsertLarge = (name, id, tooltip, checked = true) => {
-    return `<div class="large option"><label title="${tooltip?tooltip:name}"><input id="cbgroup-${id}" type="checkbox" ${checked?'checked':''}> ${name}</label></div>`;
+    return `<div class="large option"><label title="${tooltip ? tooltip : name}"><input id="cbgroup-${id}" type="checkbox" ${checked ? 'checked' : ''}> ${name}</label></div>`;
   };
 
   /** Clear out any previous options. */
@@ -779,9 +814,9 @@ function decodeQuery(queryString = window.location.search.slice(1)) {
 
     timestamp = Number(decoded.splice(0, 1)[0]);
     timeTaken = Number(decoded.splice(0, 1)[0]);
-    choices   = decoded.splice(0, 1)[0];
+    choices = decoded.splice(0, 1)[0];
 
-    const optDecoded    = decoded.splice(0, 1)[0];
+    const optDecoded = decoded.splice(0, 1)[0];
     const suboptDecoded = decoded.slice(0);
 
     /**
@@ -845,20 +880,20 @@ function preloadImages() {
   let imagesLoaded = 0;
 
   const loadImage = (src, idx) => {
-      return new Promise((resolve, reject) => {
-          const img = new Image();
+    return new Promise((resolve, reject) => {
+      const img = new Image();
 
-          img.crossOrigin = 'Anonymous';
-          img.onload = () => {
-            setImageToData(img, idx);
-            resolve(img);
-          };
-          img.onerror = img.onabort = () => reject(src);
-          if ( img.complete || img.complete === undefined ) {
-            img.src = src;
-          }
-          img.src = src;
-      });
+      img.crossOrigin = 'Anonymous';
+      img.onload = () => {
+        setImageToData(img, idx);
+        resolve(img);
+      };
+      img.onerror = img.onabort = () => reject(src);
+      if (img.complete || img.complete === undefined) {
+        img.src = src;
+      }
+      img.src = src;
+    });
   };
 
   const setImageToData = (img, idx) => {
@@ -879,8 +914,8 @@ function preloadImages() {
  *
  * @param {number} milliseconds
  */
-function msToReadableTime (milliseconds) {
-  let t = Math.floor(milliseconds/1000);
+function msToReadableTime(milliseconds) {
+  let t = Math.floor(milliseconds / 1000);
   const years = Math.floor(t / 31536000);
   t = t - (years * 31536000);
   const months = Math.floor(t / 2592000);
@@ -892,13 +927,13 @@ function msToReadableTime (milliseconds) {
   const minutes = Math.floor(t / 60);
   t = t - (minutes * 60);
   const content = [];
-	if (years) content.push(years + " year" + (years > 1 ? "s" : ""));
-	if (months) content.push(months + " month" + (months > 1 ? "s" : ""));
-	if (days) content.push(days + " day" + (days > 1 ? "s" : ""));
-	if (hours) content.push(hours + " hour"  + (hours > 1 ? "s" : ""));
-	if (minutes) content.push(minutes + " minute" + (minutes > 1 ? "s" : ""));
-	if (t) content.push(t + " second" + (t > 1 ? "s" : ""));
-  return content.slice(0,3).join(', ');
+  if (years) content.push(years + " year" + (years > 1 ? "s" : ""));
+  if (months) content.push(months + " month" + (months > 1 ? "s" : ""));
+  if (days) content.push(days + " day" + (days > 1 ? "s" : ""));
+  if (hours) content.push(hours + " hour" + (hours > 1 ? "s" : ""));
+  if (minutes) content.push(minutes + " minute" + (minutes > 1 ? "s" : ""));
+  if (t) content.push(t + " second" + (t > 1 ? "s" : ""));
+  return content.slice(0, 3).join(', ');
 }
 
 /**
