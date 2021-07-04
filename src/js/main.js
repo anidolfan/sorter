@@ -717,7 +717,7 @@ function generateTextList() {
 
 //@me
 function tweet() {
-  let data = finalCharacters.slice(0, 5);
+  let data = finalCharacters.slice(0, 7);
   data = data.reduce((str, char) => {
     str += `${char.rank}. ${char.name}\n`;
     return str;
@@ -726,7 +726,7 @@ function tweet() {
     data = titleForTweet + "\n" + data;
   }
 
-  data += window.location.href;
+  data += window.location.href.replace("https://", "");
   window.open(`https://twitter.com/intent/tweet?text=${encodeURI(data)}
   `, "_blank");
 
