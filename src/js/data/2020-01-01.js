@@ -507,14 +507,14 @@ dataSet[dataSetVersion].characterData = [
         "name": "江端妃咲",
         "img": "https://i.imgur.com/5y5ZV4t.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["jj"]
         }
     },
     {
         "name": "豫風瑠乃",
         "img": "https://i.imgur.com/CSnsBbm.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["tf"]
         }
     },
     {
@@ -535,7 +535,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "有澤一華",
         "img": "https://i.imgur.com/fdxcpDJ.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["jj"]
         }
     },
     {
