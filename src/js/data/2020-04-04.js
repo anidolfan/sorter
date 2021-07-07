@@ -507,7 +507,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Ebata Kisaki",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/60/EbataKisaki2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313172258"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["jj"]
         }
     },
     {
@@ -535,7 +535,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Arisawa Ichika",
         "img": "https://i.imgur.com/UPQBFrP.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["jj"]
         }
     },
     {
@@ -1190,7 +1190,40 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["uup2"]
         }
 
+    },
+    {
+        "name": "Irie Risa",
+        "img": "https://i.imgur.com/PXiGCqT.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+        }
+
+    },
+    {
+        "name": "Kasai Yuumi",
+        "img": "https://i.imgur.com/pq7vejS.jpg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+
+    },
+    {
+        "name": "Yagi Shiori",
+        "img": "https://i.imgur.com/Kl7Zxvu.jpg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+
+    },
+    {
+        "name": "Fukuda Marin",
+        "img": "https://i.imgur.com/E6Thaf7.jpg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+
     }
+    
   
     
 ];
