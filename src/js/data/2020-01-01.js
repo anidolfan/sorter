@@ -1191,6 +1191,38 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["uup2"]
         }
 
+    },
+    {
+        "name": "入江里咲",
+        "img": "https://i.imgur.com/PXiGCqT.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+        }
+
+    },
+    {
+        "name": "河西結心",
+        "img": "https://i.imgur.com/pq7vejS.jpg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+
+    },
+    {
+        "name": "八木栞",
+        "img": "https://i.imgur.com/Kl7Zxvu.jpg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+
+    },
+    {
+        "name": "福田真琳",
+        "img": "https://i.imgur.com/E6Thaf7.jpg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+
     }
     
   
