@@ -430,21 +430,21 @@ dataSet[dataSetVersion].characterData = [
         "name": "Yonemura Kirara",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/48/YonemuraKirara2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165121"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
     {
         "name": "Nakayama Natsume",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/36/NakayamaNatsume2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165206"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
     {
         "name": "Kubota Nanami",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/38/KubotaNanami2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165253"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
     {
@@ -458,7 +458,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Saito Madoka",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/c/cf/SaitoMadoka2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165339"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
     {
@@ -472,7 +472,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Hiromoto Ruli",
         "img": "https://i.imgur.com/IpeViM6.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
     {
@@ -486,7 +486,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Nishizaki Miku",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/5/57/NishizakiMiku2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165811"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
     {
@@ -500,7 +500,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Kitahara Momo",
         "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/4b/KitaharaMomo2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313172243"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
     {
@@ -514,7 +514,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Yofuu Runo",
         "img": "https://i.imgur.com/tJlNInJ.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["tf"]
         }
     },
     {
@@ -551,7 +551,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Ishiguri Kanami",
         "img": "https://i.imgur.com/aRGSntn.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
 
@@ -1240,6 +1240,7 @@ dataSet[dataSetVersion].options = [
             { name: 'Angerme', key: 'angerme' },
             { name: 'Tsubaki Factory', key: 'tf' },
             { name: 'BEYOOOOONDS', key: 'by' },
+            { name: 'Hello Pro Kenshuusei Unit', key: 'kunit' },
             { name: 'Hello Pro Kenshuusei', key: 'kss' },
             { name: 'Ex-Juice=Juice', key: 'ex-jj' },
             { name: 'Ex-Kobushi Factory', key: 'kf' },

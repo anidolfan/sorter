@@ -430,21 +430,21 @@ dataSet[dataSetVersion].characterData = [
         "name": "米村姫良々",
         "img": "https://i.imgur.com/DwqeeXA.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
     {
         "name": "中山夏月姫",
         "img": "https://i.imgur.com/gvpLGbI.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
     {
         "name": "窪田七海",
         "img": "https://i.imgur.com/YIT2U5z.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
     {
@@ -458,7 +458,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "斉藤円香",
         "img": "https://i.imgur.com/rf0adCZ.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
     {
@@ -472,7 +472,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "広本瑠璃",
         "img": "https://i.imgur.com/VtFjnmC.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
     {
@@ -486,7 +486,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "西﨑美空",
         "img": "https://i.imgur.com/HoFb7mx.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
     {
@@ -500,7 +500,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "北原もも",
         "img": "https://i.imgur.com/KW92qrr.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
     {
@@ -550,7 +550,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "石栗奏美",
         "img": "https://i.imgur.com/YAPe04i.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kss", "kunit"]
         }
     },
 
@@ -1241,6 +1241,7 @@ dataSet[dataSetVersion].options = [
             { name: 'アンジュルム', key: 'angerme' },
             { name: 'つばきファクトリー', key: 'tf' },
             { name: 'BEYOOOOONDS', key: 'by' },
+            { name: 'ハロプロ研修生ユニット', key: 'kunit' },
             { name: 'ハロプロ研修生', key: 'kss' },
             { name: 'Juice=Juice OG', key: 'ex-jj' },
             { name: 'こぶしファクトリー', key: 'kf' },
