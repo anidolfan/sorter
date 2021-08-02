@@ -191,7 +191,8 @@ label:hover {
 }
 
 .results-table {
-  font-size: 14px;
+  font-size: 0.7em;
+  white-space: nowrap;
 }
 
 /*@media all and (min-width: 600px) {*/
