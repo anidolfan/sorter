@@ -216,14 +216,14 @@ function start() {
 
   //console.log("to sort", options[0]);
   let optIndex;
-  if(optTaken[0].indexOf){
-      optIndex = optTaken[0].indexOf(true);
-      ///console.log(optTaken[0]);
+  if (optTaken[0].indexOf) {
+    optIndex = optTaken[0].indexOf(true);
+    ///console.log(optTaken[0]);
 
-      if (optTaken[0].slice(optIndex + 1, optTaken[0].length - 1).indexOf(true) === -1) {
-        ///console.log("aaaaaaa", optIndex);
-        titleForTweet = options[0].sub[optIndex].name;
-      }
+    if (optTaken[0].slice(optIndex + 1, optTaken[0].length - 1).indexOf(true) === -1) {
+      ///console.log("aaaaaaa", optIndex);
+      titleForTweet = options[0].sub[optIndex].name;
+    }
   }
 
   //console.log("index", titleForTweet);
@@ -791,6 +791,13 @@ function populateOptions() {
           document.getElementById(`cb-${opt.key}-${subindex}`).disabled = !groupbox.checked;
           if (groupbox.checked) { document.getElementById(`cb-${opt.key}-${subindex}`).checked = true; }
         });
+
+        if (document.getElementById("cbgroup-subkeyaki").checked === true) {
+          groupbox.parentElement.click();
+          groupbox.parentElement.click();
+        }
+
+
       });
     } else {
       optList.insertAdjacentHTML('beforeend', optInsert(opt.name, opt.key, opt.tooltip, opt.checked));
