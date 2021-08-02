@@ -215,13 +215,17 @@ function start() {
 
 
   //console.log("to sort", options[0]);
-  let optIndex = optTaken[0].indexOf(true);
-  ///console.log(optTaken[0]);
+  let optIndex;
+  if(optTaken[0].indexOf){
+      optIndex = optTaken[0].indexOf(true);
+      ///console.log(optTaken[0]);
 
-  if (optTaken[0].slice(optIndex + 1, optTaken[0].length - 1).indexOf(true) === -1) {
-    ///console.log("aaaaaaa", optIndex);
-    titleForTweet = options[0].sub[optIndex].name;
+      if (optTaken[0].slice(optIndex + 1, optTaken[0].length - 1).indexOf(true) === -1) {
+        ///console.log("aaaaaaa", optIndex);
+        titleForTweet = options[0].sub[optIndex].name;
+      }
   }
+
   //console.log("index", titleForTweet);
 
   /** Shuffle character array with timestamp seed. */
