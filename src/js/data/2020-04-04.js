@@ -1216,7 +1216,7 @@ dataSet[dataSetVersion].characterData = [
 
     },
     {
-        "name": "Fukuda Marin",
+        "name": "Fukuda Marine",
         "img": "https://i.imgur.com/E6Thaf7.jpg"
         , opts: {
             subkeyaki: ["tf"]
