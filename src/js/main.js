@@ -726,11 +726,11 @@ function tweet() {
     str += `${char.rank}. ${char.name}\n`;
     return str;
   }, '');
-  if (titleForTweet !== "") {
+  if (titleForTweet !== "" && titleForTweet !== "Custom Sorter") {
     data = titleForTweet + "\n" + data;
   }
 
-  data += window.location.href.replace("https://", "");
+  data += window.location.href.replace("https://", "").slice(0, window.location.href.indexOf("?"));
   window.open(`https://twitter.com/intent/tweet?text=${encodeURI(data)}
   `, "_blank");
 
