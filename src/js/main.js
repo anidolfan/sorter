@@ -730,7 +730,7 @@ function tweet() {
     data = titleForTweet + "\n" + data;
   }
 
-  data += window.location.href.replace("https://", "").slice(0, window.location.href.indexOf("?"));
+  data += window.location.href.hostname || "";
   window.open(`https://twitter.com/intent/tweet?text=${encodeURI(data)}
   `, "_blank");
 
