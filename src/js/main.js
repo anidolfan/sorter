@@ -730,7 +730,7 @@ function tweet() {
     data = titleForTweet + "\n" + data;
   }
 
-  data += window.location.href.hostname || "";
+  data += "ahelloprojectfan.github.io/sorter/";
   window.open(`https://twitter.com/intent/tweet?text=${encodeURI(data)}
   `, "_blank");
 
