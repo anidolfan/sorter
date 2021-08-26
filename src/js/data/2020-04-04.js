@@ -1222,7 +1222,24 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["tf"]
         }
 
+    },
+    {
+        "name": "Yoshida Hinoha",
+        "img": "https://i.imgur.com/RTpILvl.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+
+    },
+    {
+        "name": "Kawashima Mifu",
+        "img": "https://i.imgur.com/rQjVUfe.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+
     }
+    
     
   
     
