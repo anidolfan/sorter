@@ -1223,6 +1223,22 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["tf"]
         }
 
+    },
+    {
+        "name": "吉田姫杷",
+        "img": "https://i.imgur.com/RTpILvl.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+
+    },
+    {
+        "name": "川嶋美楓",
+        "img": "https://i.imgur.com/rQjVUfe.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+
     }
     
   
