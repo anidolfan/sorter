@@ -192,7 +192,7 @@ dataSet[dataSetVersion].characterData = [
     //Juice=Juice
     {
         "name": "金澤朋子",
-        "img": "https://i.imgur.com/9SreQGU.jpg"
+        "img": "https://i.imgur.com/BnA1nYE.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
