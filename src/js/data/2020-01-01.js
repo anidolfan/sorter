@@ -227,42 +227,42 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "植村あかり",
-        "img": "https://i.imgur.com/cnn5SY0.jpg"
+        "img": "https://i.imgur.com/GEx9Taf.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "稲場愛香",
-        "img": "https://i.imgur.com/HPp9U8z.jpg"
+        "img": "https://i.imgur.com/TBopG1W.jpg"
         , opts: {
             subkeyaki: ["jj", "cg"]
         }
     },
     {
         "name": "井上玲音",
-        "img": "https://i.imgur.com/smedCU7.jpg"
+        "img": "https://i.imgur.com/ooKnpVv.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "段原瑠々",
-        "img": "https://i.imgur.com/RBtM83x.jpg"
+        "img": "https://i.imgur.com/DVVlpn7.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "工藤由愛",
-        "img": "https://i.imgur.com/JeI2LlW.jpg"
+        "img": "https://i.imgur.com/PiBevPh.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "松永里愛",
-        "img": "https://i.imgur.com/SXAqXPm.jpg"
+        "img": "https://i.imgur.com/t6NEMBZ.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -505,7 +505,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "江端妃咲",
-        "img": "https://i.imgur.com/5y5ZV4t.jpg"
+        "img": "https://i.imgur.com/B5tdsl2.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -533,7 +533,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "有澤一華",
-        "img": "https://i.imgur.com/fdxcpDJ.jpg"
+        "img": "https://i.imgur.com/O64kXfz.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -1194,7 +1194,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "入江里咲",
-        "img": "https://i.imgur.com/PXiGCqT.jpg"
+        "img": "https://i.imgur.com/wUSXk54.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
