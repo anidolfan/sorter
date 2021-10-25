@@ -192,7 +192,7 @@ dataSet[dataSetVersion].characterData = [
     //Juice=Juice
     {
         "name": "Kanazawa Tomoko",
-        "img": "https://i.imgur.com/BBNW62C.jpg"
+        "img": "https://i.imgur.com/BnA1nYE.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -227,42 +227,42 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Uemura Akari",
-        "img": "https://i.imgur.com/A2efyKc.jpg"
+        "img": "https://i.imgur.com/GEx9Taf.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Inaba Manaka",
-        "img": "https://i.imgur.com/JwmZR1Z.jpg"
+        "img": "https://i.imgur.com/TBopG1W.jpg"
         , opts: {
             subkeyaki: ["jj", "cg"]
         }
     },
     {
         "name": "Inoue Rei",
-        "img": "https://i.imgur.com/t3WRRR5.jpg"
+        "img": "https://i.imgur.com/ooKnpVv.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "Dambara Ruru",
-        "img": "https://i.imgur.com/uMmrKbS.jpg"
+        "img": "https://i.imgur.com/DVVlpn7.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Kudo Yume",
-        "img": "https://i.imgur.com/PNgj5iM.jpg"
+        "img": "https://i.imgur.com/PiBevPh.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Matsunaga Riai",
-        "img": "https://i.imgur.com/VBSCLlV.jpg"
+        "img": "https://i.imgur.com/t6NEMBZ.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -505,7 +505,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ebata Kisaki",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/60/EbataKisaki2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313172258"
+        "img": "https://i.imgur.com/B5tdsl2.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -533,7 +533,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Arisawa Ichika",
-        "img": "https://i.imgur.com/UPQBFrP.jpg"
+        "img": "https://i.imgur.com/O64kXfz.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -1193,7 +1193,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Irie Risa",
-        "img": "https://i.imgur.com/PXiGCqT.jpg"
+        "img": "https://i.imgur.com/wUSXk54.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
