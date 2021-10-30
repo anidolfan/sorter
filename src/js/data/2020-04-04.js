@@ -55,14 +55,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Haga Akane",
-        "img": "https://i.imgur.com/ytlgraU.jpg"
+        "img": "https://i.imgur.com/vG80PkQ.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Kaga Kaede",
-        "img": "https://i.imgur.com/P4O0KKL.jpg"
+        "img": "https://i.imgur.com/ytlgraU.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
