@@ -130,7 +130,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "笠原桃奈",
         "img": "https://i.imgur.com/kyqxxLw.jpg"
         , opts: {
-            subkeyaki: ["angerme"]
+            subkeyaki: ["SnAog"]
         }
     },
     {

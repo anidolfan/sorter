@@ -130,7 +130,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Kasahara Momona",
         "img": "https://i.imgur.com/kyqxxLw.jpg"
         , opts: {
-            subkeyaki: ["angerme"]
+            subkeyaki: ["SnAog"]
         }
     },
     {
