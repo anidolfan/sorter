@@ -512,7 +512,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "豫風瑠乃",
-        "img": "https://i.imgur.com/CSnsBbm.jpg"
+        "img": "https://i.imgur.com/Gz6jDyO.png"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -1210,7 +1210,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "八木栞",
-        "img": "https://i.imgur.com/Kl7Zxvu.jpg"
+        "img": "https://i.imgur.com/F3M8ABN.png"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -1218,7 +1218,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "福田真琳",
-        "img": "https://i.imgur.com/E6Thaf7.jpg"
+        "img": "https://i.imgur.com/HhwjmCN.png"
         , opts: {
             subkeyaki: ["tf"]
         }
