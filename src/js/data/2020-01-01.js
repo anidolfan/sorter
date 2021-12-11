@@ -83,7 +83,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "北川莉央",
-        "img": "https://i.imgur.com/S1LYLGF.jpeg"
+        "img": "https://i.imgur.com/CSA26uq.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
