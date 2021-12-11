@@ -194,7 +194,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Kanazawa Tomoko",
         "img": "https://i.imgur.com/BnA1nYE.jpg"
         , opts: {
-            subkeyaki: ["jj"]
+            subkeyaki: ["ex-jj"]
         }
     },
     {

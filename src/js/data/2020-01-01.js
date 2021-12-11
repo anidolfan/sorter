@@ -194,7 +194,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "金澤朋子",
         "img": "https://i.imgur.com/BnA1nYE.jpg"
         , opts: {
-            subkeyaki: ["jj"]
+            subkeyaki: ["ex-jj"]
         }
     },
     {
