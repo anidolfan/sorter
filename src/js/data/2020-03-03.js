@@ -1329,8 +1329,20 @@ dataSet[dataSetVersion].characterData = [
             "subkeyaki": ["aSideList"]
         }
     },
-
-
+     {
+         "name": "Yoshi Yoshi Shite Hoshii no (2021)",
+        "img": "https://i.imgur.com/6PvT7MZ.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+     },
+     {
+         "name": "Beat no Wakusei (2021)",
+            "img": "https://i.imgur.com/qX2a69p.jpg",
+            "opts": {
+                "subkeyaki": ["aSideList"]
+            }
+     },
 ];
 
 
