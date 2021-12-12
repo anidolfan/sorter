@@ -1322,13 +1322,13 @@ dataSet[dataSetVersion].characterData = [
             "subkeyaki": ["aSideList"]
         }
     },
- {
+    {
         "name": "Teenage Solution (2021)",
         "img": "https://i.imgur.com/sLIiYxK.jpg",
         "opts": {
             "subkeyaki": ["aSideList"]
         }
-    }
+    },
 
 
 ];
